@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KJ0johDE3awcxDJNs4HWyGUb5cuAEdNGpLw9gygxsymXZhwRXbjlGaxnCVGzoMtWDc/xAIOPKBchCcc9Nr+0Kw==",
+  "dgSpecHash": "B3nY8vbEH6M0jsoB8uJHM1hppj9uw1wb+V2aYbKnlexZFz381cQHA2tjZVMHXiBGJv33uz/Zht0cpaxCH68/ig==",
   "success": true,
-  "projectFilePath": "D:\\새 폴더 (2)\\LangrisserHelper\\LangrisserHelper\\Client\\LangrisserHelper.Client.csproj",
+  "projectFilePath": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Client\\LangrisserHelper.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jyh9805\\.nuget\\packages\\blazored.localstorage\\4.1.1\\blazored.localstorage.4.1.1.nupkg.sha512",
     "C:\\Users\\jyh9805\\.nuget\\packages\\blazored.toast\\3.1.2\\blazored.toast.3.1.2.nupkg.sha512",

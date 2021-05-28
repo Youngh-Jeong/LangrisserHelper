@@ -116,11 +116,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\새 폴더 (2)\\LangrisserHelper\\LangrisserHelper\\Shared\\LangrisserHelper.Shared.csproj",
+      "projectUniqueName": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Shared\\LangrisserHelper.Shared.csproj",
       "projectName": "LangrisserHelper.Shared",
-      "projectPath": "D:\\새 폴더 (2)\\LangrisserHelper\\LangrisserHelper\\Shared\\LangrisserHelper.Shared.csproj",
+      "projectPath": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Shared\\LangrisserHelper.Shared.csproj",
       "packagesPath": "C:\\Users\\jyh9805\\.nuget\\packages\\",
-      "outputPath": "D:\\새 폴더 (2)\\LangrisserHelper\\LangrisserHelper\\Shared\\obj\\",
+      "outputPath": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Shared\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jyh9805\\AppData\\Roaming\\NuGet\\NuGet.Config",

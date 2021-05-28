@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qEnz1SHfR76rvfURTDxsaB8fiohfrSHVaBNkFYLQIkqGgLb8Xz8NOLj9MRS5CCEBRiA66tpzfo1zp/Js3skCNQ==",
+  "dgSpecHash": "TQKklhAS9Ai4MGm+DKpAEtUMjsff39p3IBg0jAXcgtRZiVQOmA9U1JMlkf0aTyK/o86RdwZoBCFMnIyOq0jJPg==",
   "success": true,
-  "projectFilePath": "D:\\새 폴더 (2)\\LangrisserHelper\\LangrisserHelper\\Shared\\LangrisserHelper.Shared.csproj",
+  "projectFilePath": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Shared\\LangrisserHelper.Shared.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jyh9805\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
   ],

@@ -5862,11 +5862,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\새 폴더 (2)\\LangrisserHelper\\LangrisserHelper\\Server\\LangrisserHelper.Server.csproj",
+      "projectUniqueName": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Server\\LangrisserHelper.Server.csproj",
       "projectName": "LangrisserHelper.Server",
-      "projectPath": "D:\\새 폴더 (2)\\LangrisserHelper\\LangrisserHelper\\Server\\LangrisserHelper.Server.csproj",
+      "projectPath": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Server\\LangrisserHelper.Server.csproj",
       "packagesPath": "C:\\Users\\jyh9805\\.nuget\\packages\\",
-      "outputPath": "D:\\새 폴더 (2)\\LangrisserHelper\\LangrisserHelper\\Server\\obj\\",
+      "outputPath": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Server\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jyh9805\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5883,11 +5883,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\새 폴더 (2)\\LangrisserHelper\\LangrisserHelper\\Client\\LangrisserHelper.Client.csproj": {
-              "projectPath": "D:\\새 폴더 (2)\\LangrisserHelper\\LangrisserHelper\\Client\\LangrisserHelper.Client.csproj"
+            "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Client\\LangrisserHelper.Client.csproj": {
+              "projectPath": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Client\\LangrisserHelper.Client.csproj"
             },
-            "D:\\새 폴더 (2)\\LangrisserHelper\\LangrisserHelper\\Shared\\LangrisserHelper.Shared.csproj": {
-              "projectPath": "D:\\새 폴더 (2)\\LangrisserHelper\\LangrisserHelper\\Shared\\LangrisserHelper.Shared.csproj"
+            "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Shared\\LangrisserHelper.Shared.csproj": {
+              "projectPath": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Shared\\LangrisserHelper.Shared.csproj"
             }
           }
         }

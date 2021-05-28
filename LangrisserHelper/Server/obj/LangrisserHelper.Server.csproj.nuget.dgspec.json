@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\새 폴더 (2)\\LangrisserHelper\\LangrisserHelper\\Server\\LangrisserHelper.Server.csproj": {}
+    "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Server\\LangrisserHelper.Server.csproj": {}
   },
   "projects": {
-    "D:\\새 폴더 (2)\\LangrisserHelper\\LangrisserHelper\\Client\\LangrisserHelper.Client.csproj": {
+    "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Client\\LangrisserHelper.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\새 폴더 (2)\\LangrisserHelper\\LangrisserHelper\\Client\\LangrisserHelper.Client.csproj",
+        "projectUniqueName": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Client\\LangrisserHelper.Client.csproj",
         "projectName": "LangrisserHelper.Client",
-        "projectPath": "D:\\새 폴더 (2)\\LangrisserHelper\\LangrisserHelper\\Client\\LangrisserHelper.Client.csproj",
+        "projectPath": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Client\\LangrisserHelper.Client.csproj",
         "packagesPath": "C:\\Users\\jyh9805\\.nuget\\packages\\",
-        "outputPath": "D:\\새 폴더 (2)\\LangrisserHelper\\LangrisserHelper\\Client\\obj\\",
+        "outputPath": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jyh9805\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "D:\\새 폴더 (2)\\LangrisserHelper\\LangrisserHelper\\Shared\\LangrisserHelper.Shared.csproj": {
-                "projectPath": "D:\\새 폴더 (2)\\LangrisserHelper\\LangrisserHelper\\Shared\\LangrisserHelper.Shared.csproj"
+              "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Shared\\LangrisserHelper.Shared.csproj": {
+                "projectPath": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Shared\\LangrisserHelper.Shared.csproj"
               }
             }
           }
@@ -106,14 +106,14 @@
         }
       }
     },
-    "D:\\새 폴더 (2)\\LangrisserHelper\\LangrisserHelper\\Server\\LangrisserHelper.Server.csproj": {
+    "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Server\\LangrisserHelper.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\새 폴더 (2)\\LangrisserHelper\\LangrisserHelper\\Server\\LangrisserHelper.Server.csproj",
+        "projectUniqueName": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Server\\LangrisserHelper.Server.csproj",
         "projectName": "LangrisserHelper.Server",
-        "projectPath": "D:\\새 폴더 (2)\\LangrisserHelper\\LangrisserHelper\\Server\\LangrisserHelper.Server.csproj",
+        "projectPath": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Server\\LangrisserHelper.Server.csproj",
         "packagesPath": "C:\\Users\\jyh9805\\.nuget\\packages\\",
-        "outputPath": "D:\\새 폴더 (2)\\LangrisserHelper\\LangrisserHelper\\Server\\obj\\",
+        "outputPath": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Server\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jyh9805\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -130,11 +130,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\새 폴더 (2)\\LangrisserHelper\\LangrisserHelper\\Client\\LangrisserHelper.Client.csproj": {
-                "projectPath": "D:\\새 폴더 (2)\\LangrisserHelper\\LangrisserHelper\\Client\\LangrisserHelper.Client.csproj"
+              "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Client\\LangrisserHelper.Client.csproj": {
+                "projectPath": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Client\\LangrisserHelper.Client.csproj"
               },
-              "D:\\새 폴더 (2)\\LangrisserHelper\\LangrisserHelper\\Shared\\LangrisserHelper.Shared.csproj": {
-                "projectPath": "D:\\새 폴더 (2)\\LangrisserHelper\\LangrisserHelper\\Shared\\LangrisserHelper.Shared.csproj"
+              "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Shared\\LangrisserHelper.Shared.csproj": {
+                "projectPath": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Shared\\LangrisserHelper.Shared.csproj"
               }
             }
           }
@@ -212,14 +212,14 @@
         }
       }
     },
-    "D:\\새 폴더 (2)\\LangrisserHelper\\LangrisserHelper\\Shared\\LangrisserHelper.Shared.csproj": {
+    "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Shared\\LangrisserHelper.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\새 폴더 (2)\\LangrisserHelper\\LangrisserHelper\\Shared\\LangrisserHelper.Shared.csproj",
+        "projectUniqueName": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Shared\\LangrisserHelper.Shared.csproj",
         "projectName": "LangrisserHelper.Shared",
-        "projectPath": "D:\\새 폴더 (2)\\LangrisserHelper\\LangrisserHelper\\Shared\\LangrisserHelper.Shared.csproj",
+        "projectPath": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Shared\\LangrisserHelper.Shared.csproj",
         "packagesPath": "C:\\Users\\jyh9805\\.nuget\\packages\\",
-        "outputPath": "D:\\새 폴더 (2)\\LangrisserHelper\\LangrisserHelper\\Shared\\obj\\",
+        "outputPath": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jyh9805\\AppData\\Roaming\\NuGet\\NuGet.Config",
