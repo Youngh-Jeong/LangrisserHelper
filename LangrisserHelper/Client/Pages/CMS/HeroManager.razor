@@ -1,0 +1,204 @@
+﻿@page "/HeroManager"
+@using LangrisserHelper.Shared
+@inject LangrisserHelper.Client.Services.IHeroService HeroService
+@inject LangrisserHelper.Client.Services.IRoasterService RoasterService
+@inject LangrisserHelper.Client.Services.IBaseService BaseService
+@inject IToastService ToastService
+@attribute [Authorize]
+
+<h3>Hero Setting</h3>
+<div class="box" style="width:350px;">
+    <h4>영웅 리스트</h4>
+    <button>추가</button>
+    <div style="height:900px;overflow:auto;">
+        <table>
+            @for (int i = 0; i < HeroService.HeroList.Count; i = i + 3)
+            {
+                if (i + 2 == HeroService.HeroList.Count)
+                {
+                    var hero1 = HeroService.HeroList[i];
+                    var hero2 = HeroService.HeroList[i + 1];
+                    <tr>
+                        <td @onclick="(() => { HeroClicked(hero1.HeroId); })">
+                            @($"{hero1.HeroName}")
+                            <img src="/Images/Hero/@(hero1.HeroId).png" height="100" width="100" />
+                        </td>
+                        <td @onclick="(() => { HeroClicked(hero2.HeroId);  })">
+                            @($"{hero2.HeroName}")
+                            <img src="/Images/Hero/@(hero2.HeroId).png" height="100" width="100" />
+                        </td>
+                        <td>
+                            <div style="height:100px; width:100px;"></div>
+                        </td>
+                    </tr>
+                }
+                else if (i + 1 == HeroService.HeroList.Count)
+                {
+                    var hero1 = HeroService.HeroList[i];
+                    <tr>
+                        <td @onclick="(() => { HeroClicked(hero1.HeroId); })">
+                            @($"{hero1.HeroName}")
+                            <img src="/Images/Hero/@(hero1.HeroId).png" height="100" width="100" />
+                        </td>
+                        <td>
+                            <div style="height:100px; width:100px;"></div>
+                        </td>
+                        <td>
+                            <div style="height:100px; width:100px;"></div>
+                        </td>
+                    </tr>
+                }
+                else
+                {
+                    var hero1 = HeroService.HeroList[i];
+                    var hero2 = HeroService.HeroList[i + 1];
+                    var hero3 = HeroService.HeroList[i + 2];
+                    <tr>
+                        <td @onclick="(async () => { HeroClicked(hero1.HeroId);  })">
+                            @($"{hero1.HeroName}")
+                            <img src="/Images/Hero/@(hero1.HeroId).png" height="100" width="100" />
+                        </td>
+                        <td @onclick="(async () => {HeroClicked(hero2.HeroId);  })">
+                            @($"{hero2.HeroName}")
+                            <img src="/Images/Hero/@(hero2.HeroId).png" height="100" width="100" />
+                        </td>
+                        <td @onclick="(async () => { HeroClicked(hero3.HeroId);  })">
+                            @($"{hero3.HeroName}")
+                            <img src="/Images/Hero/@(hero3.HeroId).png" height="100" width="100" />
+                        </td>
+                    </tr>
+                }
+
+            }
+        </table>
+    </div>
+</div>
+<div class="box" style="width:210px;">
+    <h4>클래스</h4>
+    <button>추가</button>
+    @if (IsVisibleChooser)
+    {
+        <table>
+            @foreach (var hero in currentClassList)
+            {
+                <tr>
+
+                    <td @onclick="(() => { RoasterService.AddRoaster(hero); IsVisibleChooser = false; })">
+                        <div class="BigFinalClass">
+                            <div class="face">
+                                <img src="/Images/Hero/@(hero.HeroId).png" height="200" width="200" />
+                            </div>
+                            <div class="arm">
+                                <img src="/Images/Army/@(hero.ArmyBranchId).png" height="80" width="60" />
+                            </div>
+                        </div>
+
+                    </td>
+                </tr>
+            }
+        </table>
+    }
+</div>
+
+<div class="box" style="width:300px; border:1px solid black">
+        <div class="form-group">
+            <label for="username"><img src="/Images/Hero/@(heroId).png" height="80" width="60" />클래스명</label>
+            <textarea id="username" @bind="heroClassName" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label for="armyBranch">병종<img src="/Images/Army/@(armyBranchId + (isSP ? "SP" : "")).png" height="80" width="60" /></label>
+            <select id="armyBranch" @bind="armyBranchId" class="form-control">
+                @foreach (var army in BaseService.ArmyBranchList)
+                {
+                    <option title="/Images/Army/@(army.ArmyBranchId.ToString()).png" value="@army.ArmyBranchId.ToString()">
+                        @army.ArmyName
+                    </option>
+                }
+            </select>
+        </div>
+        <div class="form-check">
+            <input type="checkbox" id="confirmed" @bind="isSP" class="form-check-input"/>
+            <label for="confirmed">SP여부</label>
+        </div>
+        <button type="submit" class="btn btn-primary" @onclick="(()=> { HandleRegistration(); })">Register</button>
+</div>
+<style>
+    td {
+        border: 1px solid black;
+    }
+
+    .BigFinalClass {
+        position: relative;
+        width: 200px;
+        height: 200px;
+    }
+
+    .FinalClass {
+        position: relative;
+        width: 100px;
+        height: 100px;
+    }
+
+    .face {
+        position: absolute;
+        top: 0;
+        left: 0;
+    }
+
+    .arm {
+        position: absolute;
+        bottom: 0;
+        right: 0;
+    }
+
+    .box {
+        float: left;
+        height: 1000px;
+        /*border: 1px solid black;*/
+        margin: 10px;
+    }
+</style>
+@code {
+    private bool IsVisibleChooser;
+    private List<Hero_Class> currentClassList;
+    private int heroId = -1;
+
+    private string heroClassName;
+    private string armyBranchId = "0";
+    private bool isSP = false;
+
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender)
+        {
+            await HeroService.LoadHerosAsync();
+            await BaseService.LoadArmyBranchesAsync();
+            await InvokeAsync(StateHasChanged);
+        }
+    }
+    public void Dispose()
+    {
+    }
+
+    LangrisserHelper.Shared.HeroClassResponse response = new LangrisserHelper.Shared.HeroClassResponse();
+
+    async void HandleRegistration()
+    {
+        if (heroId < 0)
+            return;
+        int intArmyBranchId = Int32.Parse(armyBranchId);
+
+        System.Diagnostics.Debug.WriteLine($"{heroId}, {intArmyBranchId}, {heroClassName}, {isSP}");
+        await HeroService.AddHeroClass(heroId, intArmyBranchId, heroClassName, isSP);
+        ToastService.ShowSuccess($"{response.HeroClassName} 추가 완료!");
+
+    }
+
+    private async void HeroClicked(int heroId)
+    {
+        currentClassList = await HeroService.GetHeroClasses(heroId);
+        IsVisibleChooser = !IsVisibleChooser;
+        StateHasChanged();
+    }
+}

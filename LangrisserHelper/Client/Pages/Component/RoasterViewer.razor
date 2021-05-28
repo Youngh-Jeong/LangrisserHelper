@@ -1,0 +1,215 @@
+﻿@using LangrisserHelper.Shared
+@inject Blazored.LocalStorage.ILocalStorageService LocalStorage
+
+@inject LangrisserHelper.Client.Services.IHeroService HeroService
+@inject LangrisserHelper.Client.Services.IRoasterService RoasterService
+
+@if (OrderedRoaster.Length == 15)
+{
+    <table>
+        @for (int i = 0; i < OrderedRoaster.Length; i = i + 3)
+        {
+            <tr>
+                @for (int j = 0; j < 3; j++)
+                {
+                    Hero_Class hero = RoasterService.HeroClassByIdInRoaster(OrderedRoaster[i + j], IsOpponent);
+
+                    <td @onclick="(() => { if(RestId.Contains(hero.Id)) Clicked(hero); })">
+                        <div class="FinalClass">
+                            <div class="face">
+                                <img src="/Images/Hero/@(hero.HeroId + (hero.IsSP ? "SP" : "")).png" height="100" width="100" />
+                            </div>
+                            @if (!IsOpponent)
+                            {
+                                <div class="arm">
+                                    <img src="/Images/Army/@(hero.ArmyBranchId + (hero.IsSP ? "SP" : "")).png" height="40" width="30" />
+                                </div>
+                            }
+                            @if (Banned.Contains(hero.Id))
+                            {
+                                <div class="face">
+                                    <img src="/Images/Hero/banned.png" height="100" width="100" />
+                                </div>
+                            }
+                            else if (Picked.Contains(hero.Id))
+                            {
+                                <div class="face">
+                                    <img src="/Images/Hero/picked.png" height="100" width="100" />
+                                </div>
+                            }
+                        </div>
+                    </td>
+                }
+            </tr>
+        }
+        <tr>
+            <td>
+                @if (SelectedList.Count > 0)
+                {
+                    var hero = SelectedList[0];
+                    <div class="FinalClass" @onclick="(()=>Clicked(hero))">
+                        <div class="face">
+                            <img src="/Images/Hero/@(hero.HeroId + (hero.IsSP ? "SP" : "")).png" height="100" width="100" />
+                        </div>
+                        @if (!IsOpponent)
+                        {
+                            <div class="arm">
+                                <img src="/Images/Army/@(hero.ArmyBranchId + (hero.IsSP ? "SP" : "")).png" height="40" width="30" />
+                            </div>
+                        }
+                    </div>
+                }
+            </td>
+            <td>
+                @if (SelectedList.Count > 1)
+                {
+                    var hero = SelectedList[1];
+                    <div class="FinalClass" @onclick="(()=>Clicked(hero))">
+                        <div class="face">
+                            <img src="/Images/Hero/@(hero.HeroId + (hero.IsSP ? "SP" : "")).png" height="100" width="100" />
+                        </div>
+                        @if (!IsOpponent)
+                        {
+                            <div class="arm">
+                                <img src="/Images/Army/@(hero.ArmyBranchId + (hero.IsSP ? "SP" : "")).png" height="40" width="30" />
+                            </div>
+                        }
+                    </div>
+                }
+
+            </td>
+            <td>
+                @if (IsActive)
+                {
+                    @if (IsOpponent)
+                    {
+                        <button @onclick="BanClicked">밴</button>
+                    }
+                    else
+                    {
+                        <button @onclick="PickClicked">픽</button>
+                    }
+                }
+
+            </td>
+        </tr>
+    </table>
+}
+
+<style>
+    .BigFinalClass {
+        position: relative;
+        width: 200px;
+        height: 200px;
+    }
+
+    .FinalClass {
+        position: relative;
+        width: 100px;
+        height: 100px;
+    }
+
+    .face {
+        position: absolute;
+        top: 0;
+        left: 0;
+    }
+
+    .arm {
+        position: absolute;
+        bottom: 0;
+        right: 0;
+    }
+
+    .box {
+        float: left;
+        height: 1000px;
+        /*border: 1px solid black;*/
+        margin: 10px;
+    }
+</style>
+@code {
+    [Parameter]
+    public List<int> RoasterId { get; set; }
+    [Parameter]
+    public List<int> Banned { get; set; }
+    [Parameter]
+    public List<int> Picked { get; set; }
+    [Parameter]
+    public bool IsOpponent { get; set; }
+    [Parameter]
+    public bool IsPlaying { get; set; }
+    [Parameter]
+    public bool IsFirst { get; set; }
+    [Parameter]
+    public Action<List<int>> BanAction { get; set; }
+    [Parameter]
+    public Action<List<int>> PickAction { get; set; }
+
+    public List<int> RestId { get; set; }
+    public int[] OrderedRoaster = new int[0];
+
+    public bool IsActive;
+    public int MaxChoice;
+
+    public List<Hero_Class> SelectedList = new List<Hero_Class>();
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender)
+        {
+            if (RoasterId == null || RoasterId.Count == 0)
+                return;
+
+            await RoasterService.LoadRoasterByIdAsync(RoasterId, IsOpponent);
+            await Task.Run(SetOrderedRoaster);
+            await InvokeAsync(StateHasChanged);
+        }
+    }
+
+    public void TurnChanged(int turn)
+    {
+        SetOrderedRoaster();
+        var turnAction = StaticTurnData.turnActions[turn];
+        IsActive = turnAction.IsActive(IsFirst, IsOpponent);
+        MaxChoice = turnAction.maxChoice;
+        StateHasChanged();
+    }
+
+    private void SetRestId()
+    {
+        RestId = RoasterId.Where(r => !Banned.Contains(r) && !Picked.Contains(r)).ToList();
+    }
+    private void SetOrderedRoaster()
+    {
+        SetRestId();
+        List<int> total = new List<int>();
+        total.AddRange(RestId);
+        total.AddRange(Picked);
+        total.AddRange(Banned);
+
+        OrderedRoaster = total.ToArray();
+    }
+
+    private void Clicked(Hero_Class hero)
+    {
+        if (!IsActive)
+            return;
+        if (SelectedList.Any(s => s.Id == hero.Id))
+            SelectedList.RemoveAll(item => item.Id == hero.Id);
+        else if (SelectedList.Count < MaxChoice)
+            SelectedList.Add(hero);
+    }
+    private void BanClicked()
+    {
+        BanAction.Invoke(SelectedList.Select(s => s.Id).ToList());
+        SelectedList = new List<Hero_Class>();
+    }
+    private void PickClicked()
+    {
+        //if (SelectedList.Count != 1)
+        //    return;
+        PickAction.Invoke(SelectedList.Select(s => s.Id).ToList());
+        SelectedList = new List<Hero_Class>();
+    }
+}

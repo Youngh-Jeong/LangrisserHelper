@@ -1,0 +1,306 @@
+﻿@page "/Room/{groupName}"
+@using LangrisserHelper.Shared
+@using LangrisserHelper.Client
+@using LangrisserHelper.Client.Pages.Component
+@using Microsoft.AspNetCore.SignalR.Client
+
+@inject NavigationManager NavManager
+@inject IJSRuntime JsRuntime
+@inject AuthenticationStateProvider AuthenticationStateProvider
+@inject LangrisserHelper.Client.Services.IHeroService HeroService
+@inject LangrisserHelper.Client.Services.IRoasterService RoasterService
+@implements IDisposable
+@attribute [Authorize]
+
+<h2>Fighting Room</h2>
+@if (gameClient != null)
+{
+    <div class="container">
+        <div class="row">
+            <div class="col-4">
+                @if (IsVisibleMyRoaster)
+                {
+                    <h6 style="display:inline">@($"{gameClient.player.Name}")</h6>
+                    @if (IsPlaying && gameClient.player.IsFirst)
+                    {
+                        <div style="display:inline">(선)</div>
+                    }
+                    <LangrisserHelper.Client.Pages.Component.RoasterViewer @ref="myRoasterView" RoasterId="@(gameClient.player.Roaster)" Banned="@(gameClient.player.Banned)" IsPlaying="IsPlaying" Picked="@(gameClient.player.Picked)" IsOpponent="false" IsFirst="@(gameClient.player.IsFirst)"
+                                                                           BanAction="@MeBanAction" PickAction="@MePickAction"></LangrisserHelper.Client.Pages.Component.RoasterViewer>
+                    @if (!IsPlaying)
+                    {
+                        <button @onclick="ReadyButton">Ready</button>
+                        @if (gameClient.player.IsReady)
+                        {
+                            <div>I'm Ready!</div>
+                        }
+                    }
+                }
+            </div>
+            @*<div class="col-1">  => hero class를 이미지로 전환할 수 있어야되는데 귀찮음
+                @if (gameClient.player != null && gameClient.player.Picked != null)
+                {
+
+                    <table>
+                        @foreach (var id in gameClient.player.Picked)
+                        {
+                            <tr>
+                                <td>
+                                    <div class="FinalClass">
+                                        <div class="face">
+                                            <img src="/Images/Hero/@(id).png" height="100" width="100" />
+                                        </div>
+                                    </div>
+                                </td>
+                            </tr>
+                        }
+                    </table>
+                }
+            </div>*@
+        <div class="col-4">
+            <div class="row" style="height:20%;">
+                <div class="col" style="height:100%">
+                    @if (gameClient != null && gameClient.MapId > 0)
+                    {
+                            <p style="margin:0px;">@(MapData.MapName[gameClient.MapId])</p>
+                            <img src="/Images/Map/@(gameClient.MapId).webp" style="max-height:80%" />
+                    }
+                </div>
+            </div>
+            <div class="row" style="height:50%; overflow:auto; border:1px solid black;">
+                <div class="col">
+                    @foreach (var message in Messages)
+                    {
+                        <div>@message</div>
+                    }
+                </div>
+            </div>
+            <div class="row">
+                <div class="col" style="padding:0px;">
+                    <input @bind="msg" @onkeyup="OnKeyUpEvent" style="width:80%;"/><button @onclick="SendMessage" style="width:20%;">전송</button>
+                </div>
+            </div>
+        </div>
+            @*<div class="col-1">
+                @if (gameClient.opponent != null && gameClient.opponent.Picked != null)
+                {
+                    <table>
+                        @foreach (var id in gameClient.opponent.Picked)
+                        {
+                            <tr>
+                                <td>
+                                    <div class="FinalClass">
+                                        <div class="face">
+                                            <img src="/Images/Hero/@(id).png" height="100" width="100" />
+                                        </div>
+                                    </div>
+                                </td>
+                            </tr>
+                        }
+                    </table>
+                }
+            </div>*@
+        <div class="col-4">
+            @if (IsVisibleOpponentRoaster)
+            {
+                <h6 style="display:inline;">@(gameClient.opponent.Name)</h6>
+                @if (IsPlaying && gameClient.opponent.IsFirst)
+                {
+                    <div style="display:inline">(선)</div>
+                }
+                <LangrisserHelper.Client.Pages.Component.RoasterViewer @ref="opRoasterView" RoasterId="@(gameClient.opponent.Roaster)" Banned="@(gameClient.opponent.Banned)" IsPlaying="IsPlaying" Picked="@(gameClient.opponent.Picked)" IsOpponent="true" IsFirst="@(gameClient.player.IsFirst)"
+                                                                       BanAction="@OpBanAction" PickAction="@OpPickAction"></LangrisserHelper.Client.Pages.Component.RoasterViewer>
+                @if (!IsPlaying && gameClient.opponent.IsReady)
+                {
+                    <div>I'm Ready!</div>
+                }
+            }
+        </div>
+        </div>
+    </div>
+}
+
+@code {
+    // 로스터 진행
+    private bool IsVisibleMyRoaster;
+    private bool IsVisibleOpponentRoaster;
+    private bool IsPlaying;
+
+    private string msg;
+
+    private string lastMsg;
+    //
+    [Parameter]
+    public string groupName { get; set; }
+    public string myName;
+    public bool IsConnected { get => gameClient != null && gameClient.Connected; }
+    public HubConnectionState State { get; set; } = HubConnectionState.Disconnected;
+    public string StateMessage { get; set; }
+    Player player;
+    List<Player> players = new List<Player>();
+    GameClient gameClient;
+    Player Opponent;
+
+    List<String> Messages = new List<string>();
+
+    List<Hero_Class> MySelectedHeros = new List<Hero_Class>();
+    List<Hero_Class> OpSelectedHeros = new List<Hero_Class>();
+
+    LangrisserHelper.Client.Pages.Component.RoasterViewer myRoasterView;
+    LangrisserHelper.Client.Pages.Component.RoasterViewer opRoasterView;
+
+    async Task EnterRoom()
+    {
+    }
+    void MessageArrived(string text)
+    {
+        Messages.Add(text);
+        StateHasChanged();
+        System.Diagnostics.Debug.WriteLine(text);
+    }
+    void OpponentChanged(Player opponent)
+    {
+        IsVisibleOpponentRoaster = (opponent != null);
+        System.Diagnostics.Debug.WriteLine($"{opponent.Name} : {(opponent.Roaster ?? new List<int>()).Count}");
+        StateHasChanged();
+    }
+    void StartGame()
+    {
+        IsPlaying = true;
+        StateHasChanged();
+        TurnChanged(1);
+    }
+    void EndGame()
+    {
+        IsPlaying = false;
+        StateHasChanged();
+    }
+    void TurnChanged(int turn)
+    {
+        myRoasterView.TurnChanged(turn);
+        opRoasterView.TurnChanged(turn);
+        StateHasChanged();
+    }
+    private void SetTimer()
+    {
+
+    }
+    async Task Stop()
+    {
+        if (gameClient != null && gameClient.Connected)
+        {
+            await gameClient.LeaveAsync();
+        }
+    }
+
+    async Task SendMessage()
+    {
+        if (lastMsg == msg)
+            return;
+        if (gameClient != null && gameClient.Connected)
+        {
+            lastMsg = msg;
+            await gameClient.SendMessageAsync(msg);
+            msg = null;
+        }
+    }
+    async Task OnKeyUpEvent(KeyboardEventArgs e)
+    {
+        if (e.Code == "Enter" || e.Code == "NumpadEnter")
+        {
+            await SendMessage();
+        }
+    }
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender)
+        {
+            if (string.IsNullOrEmpty(groupName))
+                groupName = "테스트방";
+            if (player == null)
+            {
+                player = new Player();
+                player.Name = await GetUserName();
+                player.Face = "1";
+                player.JoinedOn = DateTime.Now;
+                player.Roaster = RoasterService.MyRoasterIds;
+            }
+            if (gameClient == null || !gameClient.Connected)
+            {
+                gameClient = new GameClient(groupName, player, NavManager.BaseUri);
+                gameClient.MessageArrived += MessageArrived;
+                gameClient.OpponentChanged += OpponentChanged;
+                gameClient.StartGameEvent += StartGame;
+                gameClient.TurnChanged += TurnChanged;
+                gameClient.EndGameEvent += EndGame;
+                await gameClient.EnterAsync();
+                State = HubConnectionState.Connected;
+                StateMessage = "Game started.";
+
+                //await JsRuntime.FocusAsync(_canvasContainer);
+            }
+            IsVisibleMyRoaster = true;
+            StateHasChanged();
+        }
+    }
+
+    private async Task<string> GetUserName()
+    {
+        var authState = await AuthenticationStateProvider.GetAuthenticationStateAsync();
+        var user = authState.User;
+        return user.Identity.Name;
+    }
+
+    async Task ReadyButton()
+    {
+        if (gameClient != null && gameClient.Connected)
+        {
+            await gameClient.ReadyAsync(!gameClient.player.IsReady);
+        }
+        await InvokeAsync(StateHasChanged);
+    }
+
+
+    public async void Dispose()
+    {
+        if (gameClient != null && gameClient.Connected)
+        {
+            gameClient.MessageArrived -= MessageArrived;
+            gameClient.OpponentChanged -= OpponentChanged;
+            gameClient.StartGameEvent -= StartGame;
+            gameClient.TurnChanged -= TurnChanged;
+            gameClient.EndGameEvent -= EndGame;
+
+        }
+        await gameClient.LeaveAsync();
+        gameClient = null;
+    }
+
+
+    public async void MeBanAction(List<int> selectedList)
+    {
+
+    }
+    public async void MePickAction(List<int> selectedList)
+    {
+        if (gameClient != null && gameClient.Connected)
+        {
+            await gameClient.PickAsync(selectedList);
+        }
+        await InvokeAsync(StateHasChanged);
+    }
+
+    public async void OpBanAction(List<int> selectedList)
+    {
+        if (gameClient != null && gameClient.Connected)
+        {
+            await gameClient.BanAsync(selectedList);
+        }
+        await InvokeAsync(StateHasChanged);
+    }
+    public async void OpPickAction(List<int> selectedList)
+    {
+
+    }
+}

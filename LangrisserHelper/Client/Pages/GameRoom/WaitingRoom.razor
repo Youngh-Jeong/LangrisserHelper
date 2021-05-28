@@ -1,0 +1,97 @@
+﻿@page "/Room"
+@using LangrisserHelper.Shared
+@using LangrisserHelper.Client
+@using Microsoft.AspNetCore.SignalR.Client
+@inject Blazored.LocalStorage.ILocalStorageService LocalStorage
+@inject LangrisserHelper.Client.Services.IHeroService HeroService
+@inject LangrisserHelper.Client.Services.IRoasterService RoasterService
+@inject NavigationManager NavManager
+@inject IJSRuntime JsRuntime
+@implements IDisposable
+
+@attribute [Authorize]
+<h2>Room</h2>
+<div style="width:500px; float:left;">
+    @if (RoasterService.MyRoaster.Count == 15)
+    {
+        <LangrisserHelper.Client.Pages.Component.RoasterViewer RoasterId="@(RoasterService.MyRoasterIds)" Banned="new List<int>()" Picked="new List<int>()" IsOpponent="false"></LangrisserHelper.Client.Pages.Component.RoasterViewer>
+    }
+    else
+    {
+        <div>로스터가 세팅되어있지 않습니다.</div>
+    }
+</div>
+
+<div style="width:500px; float:left;">
+    <h6>방 이름</h6>
+    <input @bind="groupName">
+    <button @onclick="ButtonClick">입장</button>
+</div>
+
+@code {
+    private string alertMessage;
+    private string token;
+    public string groupName;
+    public string myName;
+    public bool IsConnected { get => gameClient != null && gameClient.Connected; }
+    public HubConnectionState State { get; set; } = HubConnectionState.Disconnected;
+    public string StateMessage { get; set; }
+    Player player;
+    List<Player> players = new List<Player>();
+    GameClient gameClient;
+    Player Opponent;
+
+    List<String> Messages = new List<string>();
+
+    private async Task ButtonClick()
+    {
+        await EnterRoom();
+    }
+
+    async Task EnterRoom()
+    {
+        if (RoasterService.MyRoaster.Count == 15)
+            NavManager.NavigateTo($"/Room/{groupName}");
+    }
+    void MessageArrived(string text)
+    {
+        Messages.Add(text);
+        StateHasChanged();
+        System.Diagnostics.Debug.WriteLine(text);
+    }
+    void OpponentChanged(Player opponent)
+    {
+        StateHasChanged();
+    }
+
+    public void Dispose()
+    {
+        if (gameClient != null && gameClient.Connected)
+        {
+            gameClient.MessageArrived -= MessageArrived;
+        }
+        Stop();
+        gameClient = null;
+    }
+
+    async Task Stop()
+    {
+        if (gameClient != null && gameClient.Connected)
+        {
+            await gameClient.LeaveAsync();
+        }
+    }
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender)
+        {
+            token = await LocalStorage.GetItemAsync<string>("authToken");
+            await HeroService.LoadHerosAsync();
+            await RoasterService.LoadRoasterAsync(token);
+            RoasterService.OnChange += StateHasChanged;
+            await InvokeAsync(StateHasChanged);
+        }
+    }
+
+}

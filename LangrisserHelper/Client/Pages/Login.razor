@@ -1,0 +1,38 @@
+﻿@inject Blazored.LocalStorage.ILocalStorageService LocalStorage
+@inject AuthenticationStateProvider AuthStateProvider
+@inject IToastService ToastService
+@inject LangrisserHelper.Client.Services.IAuthService AuthService
+
+Please log in below or <NavLink href="register">register</NavLink> for a new account.
+<EditForm Model="@user" OnValidSubmit="HandleLogin">
+    <DataAnnotationsValidator />
+    <div class="form-group">
+        <label for="username">UserName</label>
+        <InputText id="username" @bind-Value="user.UserName" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label for="password">Password</label>
+        <InputText id="password" @bind-Value="user.Password" type="password" class="form-control" />
+    </div>
+    <button type="submit" class="btn btn-primary">Login</button>
+    <ValidationSummary />
+</EditForm>
+
+@code {
+    private LangrisserHelper.Shared.UserLogin user = new LangrisserHelper.Shared.UserLogin();
+    
+    private async Task HandleLogin()
+    {
+
+        var result = await AuthService.Login(user);
+        if (result.Success)
+        {
+            await LocalStorage.SetItemAsync<string>("authToken", result.Data);
+            await AuthStateProvider.GetAuthenticationStateAsync();
+        }
+        else 
+        {
+            ToastService.ShowError(result.Message);
+        }
+    }
+}

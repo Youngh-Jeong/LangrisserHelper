@@ -1,0 +1,300 @@
+﻿@page "/Roaster"
+@using LangrisserHelper.Shared
+@inject Blazored.LocalStorage.ILocalStorageService LocalStorage
+
+@inject LangrisserHelper.Client.Services.IHeroService HeroService
+@inject LangrisserHelper.Client.Services.IRoasterService RoasterService
+@inject IToastService ToastService
+@attribute [Authorize]
+
+<h3>RoasterSetting</h3>
+<button @onclick="(()=> { SubmitList(); })">확인</button>
+<div class="box" style="width:350px;">
+    <h4>내 로스터</h4>
+    <div style="height:550px;overflow:auto;">
+        <table>
+            @for (int i = 0; i < RoasterService.MyRoaster.Count; i = i + 3)
+            {
+                if (i + 2 == RoasterService.MyRoaster.Count)
+                {
+                    My_Hero_Class hero1 = RoasterService.MyRoaster[i];
+                    My_Hero_Class hero2 = RoasterService.MyRoaster[i + 1];
+                    <tr>
+                        <td @onclick="(() => { RoasterService.RemoveRoaster(hero1.HeroClassId); })">
+                            <div class="FinalClass">
+                                <div class="face">
+                                    <img src="/Images/Hero/@(hero1.HeroClass.HeroId).png" height="100" width="100" />
+                                </div>
+                                <div class="arm">
+                                    <img src="/Images/Army/@(hero1.HeroClass.ArmyBranchId + (hero1.HeroClass.IsSP ? "SP" : "")).png" height="40" width="30" />
+                                </div>
+                            </div>
+                        </td>
+                        <td @onclick="(() => { RoasterService.RemoveRoaster(hero2.HeroClassId); })">
+                            <div class="FinalClass">
+                                <div class="face">
+                                    <img src="/Images/Hero/@(hero2.HeroClass.HeroId).png" height="100" width="100" />
+                                </div>
+                                <div class="arm">
+                                    <img src="/Images/Army/@(hero2.HeroClass.ArmyBranchId + (hero2.HeroClass.IsSP ? "SP" : "")).png" height="40" width="30" />
+                                </div>
+                            </div>
+                        </td>
+                        <td>
+                            <div style="height:100px; width:100px;"></div>
+                        </td>
+                    </tr>
+                }
+                else if (i + 1 == RoasterService.MyRoaster.Count)
+                {
+                    My_Hero_Class hero1 = RoasterService.MyRoaster[i];
+                    <tr>
+                        <td @onclick="(() => { RoasterService.RemoveRoaster(hero1.HeroClassId); })">
+                            <div class="FinalClass">
+                                <div class="face">
+                                    <img src="/Images/Hero/@(hero1.HeroClass.HeroId).png" height="100" width="100" />
+                                </div>
+                                <div class="arm">
+                                    <img src="/Images/Army/@(hero1.HeroClass.ArmyBranchId + (hero1.HeroClass.IsSP ? "SP" : "")).png" height="40" width="30" />
+                                </div>
+                            </div>
+                        </td>
+                        <td>
+                            <div style="height:100px; width:100px;"></div>
+                        </td>
+                        <td>
+                            <div style="height:100px; width:100px;"></div>
+                        </td>
+                    </tr>
+                }
+                else
+                {
+                    My_Hero_Class hero1 = RoasterService.MyRoaster[i];
+                    My_Hero_Class hero2 = RoasterService.MyRoaster[i + 1];
+                    My_Hero_Class hero3 = RoasterService.MyRoaster[i + 2];
+                    <tr>
+                        <td @onclick="(() => { RoasterService.RemoveRoaster(hero1.HeroClassId); })">
+                            <div class="FinalClass">
+                                <div class="face">
+                                    <img src="/Images/Hero/@(hero1.HeroClass.HeroId).png" height="100" width="100" />
+                                </div>
+                                <div class="arm">
+                                    <img src="/Images/Army/@(hero1.HeroClass.ArmyBranchId + (hero1.HeroClass.IsSP ? "SP" : "")).png" height="40" width="30" />
+                                </div>
+                            </div>
+                        </td>
+                        <td @onclick="(() => { RoasterService.RemoveRoaster(hero2.HeroClassId); })">
+                            <div class="FinalClass">
+                                <div class="face">
+                                    <img src="/Images/Hero/@(hero2.HeroClass.HeroId).png" height="100" width="100" />
+                                </div>
+                                <div class="arm">
+                                    <img src="/Images/Army/@(hero2.HeroClass.ArmyBranchId + (hero2.HeroClass.IsSP ? "SP" : "")).png" height="40" width="30" />
+                                </div>
+                            </div>
+                        </td>
+                        <td @onclick="(() => { RoasterService.RemoveRoaster(hero3.HeroClassId); })">
+                            <div class="FinalClass">
+                                <div class="face">
+                                    <img src="/Images/Hero/@(hero3.HeroClass.HeroId).png" height="100" width="100" />
+                                </div>
+                                <div class="arm">
+                                    <img src="/Images/Army/@(hero3.HeroClass.ArmyBranchId + (hero3.HeroClass.IsSP ? "SP" : "")).png" height="40" width="30" />
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                }
+            }
+        </table>
+    </div>
+</div>
+<div class="box" style="width:350px;">
+    <h4>영웅 리스트</h4>
+    <div style="height:550px;overflow:auto;">
+
+        <table>
+            @for (int i = 0; i < HeroService.HeroList.Count; i = i + 3)
+            {
+                if (i + 2 == HeroService.HeroList.Count)
+                {
+                    var hero1 = HeroService.HeroList[i];
+                    var hero2 = HeroService.HeroList[i + 1];
+                    <tr>
+                        <td @onclick="(() => { HeroClicked(hero1.HeroId); })">
+                            @($"{hero1.HeroName}")
+                            <img src="/Images/Hero/@(hero1.HeroId).png" height="100" width="100" />
+                        </td>
+                        <td @onclick="(() => { HeroClicked(hero2.HeroId);  })">
+                            @($"{hero2.HeroName}")
+                            <img src="/Images/Hero/@(hero2.HeroId).png" height="100" width="100" />
+                        </td>
+                        <td>
+                            <div style="height:100px; width:100px;"></div>
+                        </td>
+                    </tr>
+                }
+                else if (i + 1 == HeroService.HeroList.Count)
+                {
+                    var hero1 = HeroService.HeroList[i];
+                    <tr>
+                        <td @onclick="(() => { HeroClicked(hero1.HeroId); })">
+                            @($"{hero1.HeroName}")
+                            <img src="/Images/Hero/@(hero1.HeroId).png" height="100" width="100" />
+                        </td>
+                        <td>
+                            <div style="height:100px; width:100px;"></div>
+                        </td>
+                        <td>
+                            <div style="height:100px; width:100px;"></div>
+                        </td>
+                    </tr>
+                }
+                else
+                {
+                    var hero1 = HeroService.HeroList[i];
+                    var hero2 = HeroService.HeroList[i + 1];
+                    var hero3 = HeroService.HeroList[i + 2];
+                    <tr>
+                        <td @onclick="(async () => { HeroClicked(hero1.HeroId);  })">
+                            @($"{hero1.HeroName}")
+                            <img src="/Images/Hero/@(hero1.HeroId).png" height="100" width="100" />
+                        </td>
+                        <td @onclick="(async () => {HeroClicked(hero2.HeroId);  })">
+                            @($"{hero2.HeroName}")
+                            <img src="/Images/Hero/@(hero2.HeroId).png" height="100" width="100" />
+                        </td>
+                        <td @onclick="(async () => { HeroClicked(hero3.HeroId);  })">
+                            @($"{hero3.HeroName}")
+                            <img src="/Images/Hero/@(hero3.HeroId).png" height="100" width="100" />
+                        </td>
+                    </tr>
+                }
+
+            }
+            @*@foreach (var hero in HeroService.HeroList)
+                {
+                    <tr>
+                        <td @onclick="(()=> { currentClassList = HeroService.GetHeroClasses(hero.HeroId); IsVisibleChooser = !IsVisibleChooser; })">
+                            @($"{hero.HeroName}")
+                            <img src="/Images/Hero/hero@(hero.HeroId).png" height="100" width="100" />
+                        </td>
+                    </tr>
+                }*@
+        </table>
+    </div>
+</div>
+<div class="box" style="width:210px;">
+    <h4>클래스</h4>
+    @if (IsVisibleChooser)
+    {
+        <table>
+            @foreach (var hero in currentClassList)
+            {
+                <tr>
+
+                    <td @onclick="(()=> { RoasterService.AddRoaster(hero); IsVisibleChooser = false; })">
+                        <div class="BigFinalClass">
+                            <div class="face">
+                                <img src="/Images/Hero/@(hero.HeroId).png" height="200" width="200" />
+                            </div>
+                            <div class="arm">
+                                <img src="/Images/Army/@(hero.ArmyBranchId + (hero.IsSP ? "SP" : "")).png" height="80" width="60" />
+                            </div>
+                        </div>
+
+                    </td>
+                </tr>
+            }
+        </table>
+    }
+</div>
+
+<div>
+    <button @onclick="()=> { IsVisibleTest = true; StateHasChanged(); }">보기</button>
+    @if (IsVisibleTest)
+    { 
+    <LangrisserHelper.Client.Pages.Component.RoasterViewer RoasterId="@(RoasterService.MyRoasterIds)" Banned="new List<int>()" Picked="new List<int>()" IsOpponent="false"></LangrisserHelper.Client.Pages.Component.RoasterViewer>
+    }
+    </div>
+<style>
+    td {
+        border: 1px solid black;
+    }
+
+    .BigFinalClass {
+        position: relative;
+        width: 200px;
+        height: 200px;
+    }
+
+    .FinalClass {
+        position: relative;
+        width: 100px;
+        height: 100px;
+    }
+
+    .face {
+        position: absolute;
+        top: 0;
+        left: 0;
+    }
+
+    .arm {
+        position: absolute;
+        bottom: 0;
+        right: 0;
+    }
+
+    .box {
+        float: left;
+        height: 1000px;
+        /*border: 1px solid black;*/
+        margin: 10px;
+    }
+</style>
+@code {
+    private bool IsVisibleTest;
+
+    private bool IsVisibleChooser;
+    private List<Hero_Class> currentClassList;
+    string token;
+
+    private async void SubmitList()
+    {
+        if (RoasterService.MyRoaster.Count < 15)
+        {
+            ToastService.ShowError("Need More Heros!", ":(");
+            return;
+        }
+        else
+        {
+            await RoasterService.SaveRoaster(token);
+        }
+    }
+
+    private async void HeroClicked(int heroId)
+    {
+        currentClassList = await HeroService.GetHeroClasses(heroId);
+        IsVisibleChooser = true;
+        StateHasChanged();
+    }
+
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender)
+        {
+
+            token = await LocalStorage.GetItemAsync<string>("authToken");
+            await HeroService.LoadHerosAsync();
+            await RoasterService.LoadRoasterAsync(token);
+            RoasterService.OnChange += StateHasChanged;
+            await InvokeAsync(StateHasChanged);
+        }
+    }
+    public void Dispose()
+    {
+        RoasterService.OnChange -= StateHasChanged;
+    }
+}

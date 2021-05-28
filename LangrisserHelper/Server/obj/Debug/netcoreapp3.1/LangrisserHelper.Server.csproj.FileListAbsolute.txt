@@ -1,0 +1,1048 @@
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\LangrisserHelper.Client.StaticWebAssets.xml
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Abstractions.pdb
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Core.pdb
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authorization.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authorization.pdb
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authorization.xml
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.deps.json
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.exe
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.pdb
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.runtimeconfig.dev.json
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.runtimeconfig.json
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Connections.Abstractions.pdb
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Connections.Abstractions.xml
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.Abstractions.pdb
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.pdb
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.xml
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HostFiltering.pdb
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HostFiltering.xml
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Abstractions.pdb
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.pdb
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Server.Abstractions.pdb
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.xml
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Abstractions.pdb
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Extensions.pdb
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Features.pdb
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.pdb
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.xml
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HttpOverrides.pdb
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HttpOverrides.xml
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Metadata.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Metadata.pdb
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Metadata.xml
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.pdb
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.Abstractions.pdb
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.pdb
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.xml
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IIS.pdb
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IIS.xml
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IISIntegration.pdb
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IISIntegration.xml
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Core.pdb
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Core.xml
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.pdb
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.pdb
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.xml
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.xml
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebSockets.pdb
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebSockets.xml
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebUtilities.pdb
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.xml
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Hosting.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.Console.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.ObjectPool.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Options.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Primitives.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Net.Http.Headers.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Net.Http.Headers.pdb
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Net.Http.Headers.xml
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Mdb.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Pdb.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Rocks.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\System.Diagnostics.EventLog.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\System.IO.Pipelines.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\x64\aspnetcorev2_inprocess.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\x86\aspnetcorev2_inprocess.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\LangrisserHelper.Server.StaticWebAssets.xml
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\LangrisserHelper.Server.exe
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\LangrisserHelper.Server.deps.json
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\LangrisserHelper.Server.runtimeconfig.json
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\LangrisserHelper.Server.runtimeconfig.dev.json
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\LangrisserHelper.Server.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\LangrisserHelper.Server.pdb
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\LangrisserHelper.Server.Views.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\LangrisserHelper.Server.Views.pdb
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Blazored.LocalStorage.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Blazored.Toast.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Bunit.Core.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\System.Net.Http.Json.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\LangrisserHelper.Client.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\LangrisserHelper.Shared.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\LangrisserHelper.Client.pdb
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\LangrisserHelper.Shared.pdb
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\LangrisserHelper.Server.csprojAssemblyReference.cache
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\LangrisserHelper.Server.AssemblyInfoInputs.cache
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\LangrisserHelper.Server.AssemblyInfo.cs
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\LangrisserHelper.Server.csproj.CoreCompileInputs.cache
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\LangrisserHelper.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\LangrisserHelper.Server.RazorAssemblyInfo.cache
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\LangrisserHelper.Server.RazorAssemblyInfo.cs
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\staticwebassets\LangrisserHelper.Server.StaticWebAssets.Manifest.cache
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\staticwebassets\LangrisserHelper.Server.StaticWebAssets.xml
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\scopedcss\bundle\LangrisserHelper.Server.styles.css
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\LangrisserHelper.Server.TagHelpers.input.cache
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\LangrisserHelper.Server.TagHelpers.output.cache
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\LangrisserHelper.Server.RazorCoreGenerate.cache
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\LangrisserHelper.Server.RazorTargetAssemblyInfo.cache
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\LangrisserHelper.Server.RazorTargetAssemblyInfo.cs
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\LangrisserHelper.Server.Views.pdb
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\LangrisserHelper.Server.csproj.CopyComplete
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\LangrisserHelper.Server.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\LangrisserHelper.Server.pdb
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\LangrisserHelper.Server.genruntimeconfig.cache
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jyh98\source\repos\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\LangrisserHelper.Client.StaticWebAssets.xml
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\appsettings.json
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\cs\Microsoft.CodeAnalysis.resources.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\de\Microsoft.CodeAnalysis.resources.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\es\Microsoft.CodeAnalysis.resources.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\fr\Microsoft.CodeAnalysis.resources.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\it\Microsoft.CodeAnalysis.resources.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ja\Microsoft.CodeAnalysis.resources.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ko\Microsoft.CodeAnalysis.resources.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Abstractions.pdb
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Abstractions.xml
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Core.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Core.pdb
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Core.xml
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authorization.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authorization.pdb
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authorization.xml
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.deps.json
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.exe
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.pdb
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.runtimeconfig.dev.json
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.runtimeconfig.json
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Connections.Abstractions.pdb
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Connections.Abstractions.xml
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.Abstractions.pdb
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.pdb
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.xml
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HostFiltering.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HostFiltering.pdb
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HostFiltering.xml
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Abstractions.pdb
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.pdb
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Server.Abstractions.pdb
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.xml
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Abstractions.pdb
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Extensions.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Extensions.pdb
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Extensions.xml
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Features.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Features.pdb
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Features.xml
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.pdb
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.xml
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HttpOverrides.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HttpOverrides.pdb
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HttpOverrides.xml
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Metadata.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Metadata.pdb
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Metadata.xml
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.pdb
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.Abstractions.pdb
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.pdb
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.xml
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IIS.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IIS.pdb
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IIS.xml
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IISIntegration.pdb
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IISIntegration.xml
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Core.pdb
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Core.xml
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.pdb
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.pdb
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.xml
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.xml
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebSockets.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebSockets.pdb
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebSockets.xml
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebUtilities.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebUtilities.pdb
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebUtilities.xml
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.xml
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.Binder.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.Json.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.DependencyInjection.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.FileProviders.Composite.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.FileProviders.Physical.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Hosting.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.Abstractions.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.Configuration.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.Console.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.Debug.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.EventLog.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.EventSource.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.ObjectPool.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Options.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Primitives.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Net.Http.Headers.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Net.Http.Headers.pdb
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Net.Http.Headers.xml
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Mdb.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Pdb.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Rocks.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Newtonsoft.Json.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pl\Microsoft.CodeAnalysis.resources.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ru\Microsoft.CodeAnalysis.resources.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\System.Diagnostics.EventLog.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\System.IO.Pipelines.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\tr\Microsoft.CodeAnalysis.resources.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\x64\aspnetcorev2_inprocess.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\x86\aspnetcorev2_inprocess.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\LangrisserHelper.Server.StaticWebAssets.xml
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\LangrisserHelper.Server.exe
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\LangrisserHelper.Server.deps.json
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\LangrisserHelper.Server.runtimeconfig.json
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\LangrisserHelper.Server.runtimeconfig.dev.json
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\LangrisserHelper.Server.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\LangrisserHelper.Server.pdb
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\LangrisserHelper.Server.Views.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\LangrisserHelper.Server.Views.pdb
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Blazored.LocalStorage.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Blazored.Toast.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Bunit.Core.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Authorization.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Forms.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Web.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.WebAssembly.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\System.Net.Http.Json.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\LangrisserHelper.Client.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\LangrisserHelper.Shared.dll
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\LangrisserHelper.Client.pdb
+D:\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\LangrisserHelper.Shared.pdb
+D:\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\LangrisserHelper.Server.csprojAssemblyReference.cache
+D:\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\LangrisserHelper.Server.AssemblyInfoInputs.cache
+D:\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\LangrisserHelper.Server.AssemblyInfo.cs
+D:\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\LangrisserHelper.Server.csproj.CoreCompileInputs.cache
+D:\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\LangrisserHelper.Server.MvcApplicationPartsAssemblyInfo.cache
+D:\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\LangrisserHelper.Server.RazorAssemblyInfo.cache
+D:\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\LangrisserHelper.Server.RazorAssemblyInfo.cs
+D:\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\staticwebassets\LangrisserHelper.Server.StaticWebAssets.Manifest.cache
+D:\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\staticwebassets\LangrisserHelper.Server.StaticWebAssets.xml
+D:\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\scopedcss\bundle\LangrisserHelper.Server.styles.css
+D:\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\LangrisserHelper.Server.TagHelpers.input.cache
+D:\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\LangrisserHelper.Server.TagHelpers.output.cache
+D:\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\LangrisserHelper.Server.RazorCoreGenerate.cache
+D:\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\LangrisserHelper.Server.RazorTargetAssemblyInfo.cache
+D:\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\LangrisserHelper.Server.RazorTargetAssemblyInfo.cs
+D:\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\LangrisserHelper.Server.Views.pdb
+D:\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\LangrisserHelper.Server.csproj.CopyComplete
+D:\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\LangrisserHelper.Server.dll
+D:\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\LangrisserHelper.Server.pdb
+D:\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\LangrisserHelper.Server.genruntimeconfig.cache
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Abstractions.pdb
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Core.pdb
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authorization.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authorization.pdb
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authorization.xml
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.deps.json
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.exe
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.pdb
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.runtimeconfig.dev.json
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.runtimeconfig.json
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Connections.Abstractions.pdb
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Connections.Abstractions.xml
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.Abstractions.pdb
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.pdb
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.xml
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HostFiltering.pdb
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HostFiltering.xml
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Abstractions.pdb
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.pdb
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Server.Abstractions.pdb
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.xml
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Abstractions.pdb
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Extensions.pdb
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Features.pdb
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.pdb
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.xml
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HttpOverrides.pdb
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HttpOverrides.xml
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Metadata.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Metadata.pdb
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Metadata.xml
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.pdb
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.Abstractions.pdb
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.pdb
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.xml
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IIS.pdb
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IIS.xml
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IISIntegration.pdb
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IISIntegration.xml
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Core.pdb
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Core.xml
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.pdb
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.pdb
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.xml
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.xml
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebSockets.pdb
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebSockets.xml
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebUtilities.pdb
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.xml
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Hosting.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.Console.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.ObjectPool.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Options.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Primitives.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Net.Http.Headers.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Net.Http.Headers.pdb
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Net.Http.Headers.xml
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Mdb.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Pdb.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Rocks.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\System.Diagnostics.EventLog.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\System.IO.Pipelines.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\x64\aspnetcorev2_inprocess.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\x86\aspnetcorev2_inprocess.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\LangrisserHelper.Client.StaticWebAssets.xml
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\LangrisserHelper.Server.StaticWebAssets.xml
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\LangrisserHelper.Server.exe
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\LangrisserHelper.Server.deps.json
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\LangrisserHelper.Server.runtimeconfig.json
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\LangrisserHelper.Server.runtimeconfig.dev.json
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\LangrisserHelper.Server.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\LangrisserHelper.Server.pdb
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\LangrisserHelper.Server.Views.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\LangrisserHelper.Server.Views.pdb
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Blazored.LocalStorage.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Blazored.Toast.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Bunit.Core.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\System.Net.Http.Json.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\LangrisserHelper.Client.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\LangrisserHelper.Shared.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\LangrisserHelper.Client.pdb
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\LangrisserHelper.Shared.pdb
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\LangrisserHelper.Server.csprojAssemblyReference.cache
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\LangrisserHelper.Server.AssemblyInfoInputs.cache
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\LangrisserHelper.Server.AssemblyInfo.cs
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\LangrisserHelper.Server.csproj.CoreCompileInputs.cache
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\LangrisserHelper.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\LangrisserHelper.Server.RazorAssemblyInfo.cache
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\LangrisserHelper.Server.RazorAssemblyInfo.cs
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\staticwebassets\LangrisserHelper.Server.StaticWebAssets.Manifest.cache
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\staticwebassets\LangrisserHelper.Server.StaticWebAssets.xml
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\scopedcss\bundle\LangrisserHelper.Server.styles.css
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\LangrisserHelper.Server.TagHelpers.input.cache
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\LangrisserHelper.Server.TagHelpers.output.cache
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\LangrisserHelper.Server.RazorCoreGenerate.cache
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\LangrisserHelper.Server.RazorTargetAssemblyInfo.cache
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\LangrisserHelper.Server.RazorTargetAssemblyInfo.cs
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\LangrisserHelper.Server.Views.pdb
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\LangrisserHelper.Server.csproj.CopyComplete
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\LangrisserHelper.Server.dll
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\LangrisserHelper.Server.pdb
+C:\Users\jyh98\Desktop\private\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\LangrisserHelper.Server.genruntimeconfig.cache
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\appsettings.json
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\cs\Microsoft.CodeAnalysis.resources.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\de\Microsoft.CodeAnalysis.resources.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\es\Microsoft.CodeAnalysis.resources.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\fr\Microsoft.CodeAnalysis.resources.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\it\Microsoft.CodeAnalysis.resources.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ja\Microsoft.CodeAnalysis.resources.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ko\Microsoft.CodeAnalysis.resources.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Abstractions.pdb
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Abstractions.xml
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Core.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Core.pdb
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Core.xml
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authorization.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authorization.pdb
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authorization.xml
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.deps.json
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.exe
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.pdb
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.runtimeconfig.dev.json
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.runtimeconfig.json
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Connections.Abstractions.pdb
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Connections.Abstractions.xml
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.Abstractions.pdb
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.pdb
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.xml
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HostFiltering.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HostFiltering.pdb
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HostFiltering.xml
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Abstractions.pdb
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.pdb
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Server.Abstractions.pdb
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.xml
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Abstractions.pdb
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Extensions.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Extensions.pdb
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Extensions.xml
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Features.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Features.pdb
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Features.xml
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.pdb
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.xml
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HttpOverrides.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HttpOverrides.pdb
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HttpOverrides.xml
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Metadata.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Metadata.pdb
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Metadata.xml
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.pdb
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.Abstractions.pdb
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.pdb
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.xml
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IIS.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IIS.pdb
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IIS.xml
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IISIntegration.pdb
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IISIntegration.xml
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Core.pdb
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Core.xml
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.pdb
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.pdb
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.xml
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.xml
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebSockets.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebSockets.pdb
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebSockets.xml
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebUtilities.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebUtilities.pdb
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebUtilities.xml
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.xml
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.Binder.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.Json.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.DependencyInjection.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.FileProviders.Composite.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.FileProviders.Physical.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Hosting.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.Abstractions.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.Configuration.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.Console.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.Debug.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.EventLog.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.EventSource.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.ObjectPool.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Options.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Primitives.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Net.Http.Headers.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Net.Http.Headers.pdb
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Net.Http.Headers.xml
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Mdb.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Pdb.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Rocks.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Newtonsoft.Json.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pl\Microsoft.CodeAnalysis.resources.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ru\Microsoft.CodeAnalysis.resources.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\System.Diagnostics.EventLog.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\System.IO.Pipelines.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\tr\Microsoft.CodeAnalysis.resources.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\x64\aspnetcorev2_inprocess.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\x86\aspnetcorev2_inprocess.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\LangrisserHelper.Client.StaticWebAssets.xml
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\LangrisserHelper.Server.StaticWebAssets.xml
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\LangrisserHelper.Server.exe
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\LangrisserHelper.Server.deps.json
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\LangrisserHelper.Server.runtimeconfig.json
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\LangrisserHelper.Server.runtimeconfig.dev.json
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\LangrisserHelper.Server.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\LangrisserHelper.Server.pdb
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\LangrisserHelper.Server.Views.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\LangrisserHelper.Server.Views.pdb
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Blazored.LocalStorage.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Blazored.Toast.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Bunit.Core.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Authorization.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Forms.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Web.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Connections.Client.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SignalR.Client.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SignalR.Client.Core.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SignalR.Common.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.WebAssembly.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\System.Net.Http.Json.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\LangrisserHelper.Client.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\LangrisserHelper.Shared.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\LangrisserHelper.Client.pdb
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\bin\Debug\netcoreapp3.1\LangrisserHelper.Shared.pdb
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\LangrisserHelper.Server.csprojAssemblyReference.cache
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\LangrisserHelper.Server.AssemblyInfoInputs.cache
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\LangrisserHelper.Server.AssemblyInfo.cs
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\LangrisserHelper.Server.csproj.CoreCompileInputs.cache
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\LangrisserHelper.Server.MvcApplicationPartsAssemblyInfo.cache
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\LangrisserHelper.Server.RazorAssemblyInfo.cache
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\LangrisserHelper.Server.RazorAssemblyInfo.cs
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\staticwebassets\LangrisserHelper.Server.StaticWebAssets.Manifest.cache
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\staticwebassets\LangrisserHelper.Server.StaticWebAssets.xml
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\scopedcss\bundle\LangrisserHelper.Server.styles.css
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\LangrisserHelper.Server.TagHelpers.input.cache
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\LangrisserHelper.Server.TagHelpers.output.cache
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\LangrisserHelper.Server.RazorCoreGenerate.cache
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\LangrisserHelper.Server.RazorTargetAssemblyInfo.cache
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\LangrisserHelper.Server.RazorTargetAssemblyInfo.cs
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\LangrisserHelper.Server.Views.pdb
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\LangrisserHelper.Server.csproj.CopyComplete
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\LangrisserHelper.Server.dll
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\LangrisserHelper.Server.pdb
+D:\새 폴더 (2)\LangrisserHelper\LangrisserHelper\Server\obj\Debug\netcoreapp3.1\LangrisserHelper.Server.genruntimeconfig.cache

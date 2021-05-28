@@ -1,0 +1,237 @@
+﻿
+@*@page "/Fight/{GameId?}"
+@using LangrisserHelper.Shared
+@using LangrisserHelper.Client
+@using Microsoft.AspNetCore.SignalR.Client
+
+@inject Blazored.LocalStorage.ILocalStorageService LocalStorage
+
+@inject LangrisserHelper.Client.Services.IHeroService HeroService
+@inject LangrisserHelper.Client.Services.IRoasterService RoasterService
+@inject IToastService ToastService
+@inject NavigationManager NavManager
+@inject IJSRuntime JsRuntime
+@implements IAsyncDisposable
+
+<button @onclick="EnterRoomClicked">Enter Room</button>
+<AuthorizeView>
+    <Authorized>
+        @{
+            userName = context.User.Identity.Name;
+
+        }
+    </Authorized>
+</AuthorizeView>
+
+@code { #region Parameters & Properties
+    [Parameter]
+    public string GameId { get; set; }
+    public bool IsConnected { get => gameClient != null && gameClient.Connected; }
+    public HubConnectionState State { get; set; } = HubConnectionState.Disconnected;
+    public string StateMessage { get; set; }
+    #endregion
+    #region Fields & Properties
+    private ElementReference _canvasContainer;
+    private string lastArrowKey = string.Empty;
+    private System.Threading.Timer timer;
+    Player player;
+    GameClient gameClient;
+    List<Player> players = new List<Player>();
+    protected ElementReference pageContainer;
+
+    private bool isRoasterReady;
+    private string token;
+    private string userName;
+    #endregion
+    #region Page Handlers
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (!firstRender)
+            return;
+
+        token = await LocalStorage.GetItemAsync<string>("authToken");
+        await RoasterService.LoadRoasterAsync(token);
+    }
+
+    public async ValueTask DisposeAsync()
+    {
+        if (gameClient != null)
+        {
+            gameClient.MessageReceived -= MessageReceived;
+            gameClient.StateChanged -= StateChanged;
+        }
+        await Stop();
+        gameClient = null;
+    }
+    #endregion
+    #region Game Actions
+    protected async Task EnterRoomClicked()
+    {
+        if (IsConnected)
+        {
+            await Stop();
+        }
+        else 
+        {
+            await Start();
+        }
+    }
+
+
+    protected async Task OnKeyDown(KeyboardEventArgs args)
+    {
+        if (args.Key == "Enter" || args.Key == " ")
+        {
+            if (IsConnected)
+            {
+                await Stop();
+            }
+            else
+            {
+                await Start();
+            }
+            return;
+        }
+
+        if (!IsConnected)
+        {
+            return;
+        }
+
+
+        if (args.Key != lastArrowKey)
+        {
+            lastArrowKey = args.Key;
+            if (timer != null)
+            {
+                timer.Dispose();
+            }
+            timer = new System.Threading.Timer(async (object stateInfo) =>
+            {
+                await gameClient.PlayAsync(new Play { KeyCode = lastArrowKey });
+
+            }, new System.Threading.AutoResetEvent(false), 0, Constants.TIMER_ELAPSE);
+        }
+    }
+
+    async Task Start()
+    {
+        if (string.IsNullOrWhiteSpace(GameId))
+        {
+            GameId = RandomString(8);
+        }
+
+        if (player == null)
+        {
+            player = new Player();
+            player.JoinedOn = DateTime.Now;
+            player.Name = RandomString(4);
+
+
+            string[] colorList = new string[] { "red", "purple", "green", "blue", "brown", "orange", "pink" };
+            string randomColor = colorList[random.Next(0, colorList.Length - 1)];
+
+            player.Color = randomColor;
+        }
+
+        if (gameClient == null || !gameClient.Connected)
+        {
+            gameClient = new GameClient(GameId, player, NavManager.BaseUri);
+            gameClient.StateChanged += StateChanged;
+            gameClient.MessageReceived += MessageReceived;
+            gameClient.NewEggFound += NewEggFound;
+            await gameClient.StartAsync();
+            State = HubConnectionState.Connected;
+            StateMessage = "Game started.";
+
+            //await JsRuntime.FocusAsync(_canvasContainer);
+            //StateHasChanged();
+        }
+    }
+
+    async Task Stop()
+    {
+        if (gameClient != null && gameClient.Connected)
+        {
+            await gameClient.StopAsync();
+        }
+    }
+
+    #endregion
+    #region Game Callbacks
+    void StateChanged(object sender, StateChangedEventArgs e)
+    {
+        State = e.State;
+        StateMessage = e.Message;
+
+        if (State != HubConnectionState.Connected)
+        {
+            players.Clear();
+            if (timer != null)
+            {
+                timer.Dispose();
+            }
+            Task.Run(() => ResetCanvasAsync());
+            //            Task.Run(() => JsRuntime.InvokeAsync<object>("alert", "YOU LOST"));
+        }
+
+        StateHasChanged();
+    }
+
+    void MessageReceived(object sender, MessageReceivedEventArgs e)
+    {
+        if (e.Action is PlayerPlayedAction)
+        {
+            Draw(e.Action.Player.Snake);
+        }
+        else if (e.Action is PlayerJoinedAction)
+        {
+            players = e.Action.Payload as List<Player>;
+            StateHasChanged();
+
+            // if me
+            if (gameClient.ConnectionId == e.Action.ConnectionId)
+            {
+                players.ForEach(p => Draw(p.Snake));
+            }
+            else
+            {
+                Draw(e.Action.Player.Snake);
+            }
+        }
+        else if (e.Action is PlayerLeftAction)
+        {
+            PlayerLeftAction left = (PlayerLeftAction)e.Action;
+            players = left.Payload;
+            StateHasChanged();
+
+            //if (left.Lost)
+            //{
+            //    ClearLost(e.Action.Player.Snake);
+            //}
+            //else
+            //{
+            //    Clear(e.Action.Player.Snake);
+            //}
+            Clear(e.Action.Player.Snake);
+        }
+    }
+
+    #endregion
+
+    #region Game Helpers
+    private Player GetMyPlayer()
+    {
+        return players.Find(p => p.Id == gameClient.ConnectionId);
+    }
+
+    public string RandomString(int length)
+    {
+        const string chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
+        return new string(Enumerable.Repeat(chars, length)
+        .Select(s => s[random.Next(0, s.Length)]).ToArray());
+    }
+
+    public Random random { get { return new Random(); } }
+    #endregion
+}*@

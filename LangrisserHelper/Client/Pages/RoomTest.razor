@@ -1,0 +1,105 @@
+﻿
+@using LangrisserHelper.Shared
+@using LangrisserHelper.Client
+@using Microsoft.AspNetCore.SignalR.Client
+
+@inject NavigationManager NavManager
+@inject IJSRuntime JsRuntime
+@implements IDisposable
+
+<h3>RoomTest</h3>
+<input @bind="groupName">
+<button @onclick="ButtonClick">Go</button>
+이름
+<input @bind="myName">
+
+@if (gameClient != null && gameClient.Connected)
+{
+    <div>@gameClient.OpName</div>
+}
+@foreach (var message in Messages)
+{
+    <div>@message</div>
+}
+
+@if (IsVisibleMyRoaster)
+{
+    <LangrisserHelper.Client.Pages.Component.RoasterViewer RoasterId="@(gameClient.player.Roaster)" Banned="new List<int>()" Picked="new List<int>()" IsOpponent="false"></LangrisserHelper.Client.Pages.Component.RoasterViewer>
+}
+@code {
+    // 로스터 진행
+    private bool IsVisibleMyRoaster;
+
+
+    //
+    [Parameter]
+    public string groupName { get; set; }
+    public string myName;
+    public bool IsConnected { get => gameClient != null && gameClient.Connected; }
+    public HubConnectionState State { get; set; } = HubConnectionState.Disconnected;
+    public string StateMessage { get; set; }
+    Player player;
+    List<Player> players = new List<Player>();
+    GameClient gameClient;
+    Player Opponent;
+
+    List<String> Messages = new List<string>();
+
+    private async Task ButtonClick()
+    {
+        await EnterRoom();
+    }
+
+    async Task EnterRoom()
+    {
+        if (string.IsNullOrEmpty(groupName))
+            groupName = "테스트방";
+        if (player == null)
+        {
+            player = new Player();
+            player.JoinedOn = DateTime.Now;
+            player.Name = myName;
+        }
+        if (gameClient == null || !gameClient.Connected)
+        {
+            gameClient = new GameClient(groupName, player, NavManager.BaseUri);
+            gameClient.MessageArrived += MessageArrived;
+            gameClient.OpponentChanged += OpponentChanged;
+            await gameClient.EnterAsync();
+            State = HubConnectionState.Connected;
+            StateMessage = "Game started.";
+
+            //await JsRuntime.FocusAsync(_canvasContainer);
+            StateHasChanged();
+        }
+
+    }
+    void MessageArrived(string text)
+    {
+        Messages.Add(text);
+        StateHasChanged();
+        System.Diagnostics.Debug.WriteLine(text);
+    }
+    void OpponentChanged(Player opponent)
+    {
+        StateHasChanged();
+    }
+
+    public void Dispose()
+    {
+        if (gameClient != null && gameClient.Connected)
+        {
+            gameClient.MessageArrived -= MessageArrived;
+        }
+        Stop();
+        gameClient = null;
+    }
+
+    async Task Stop()
+    {
+        if (gameClient != null && gameClient.Connected)
+        {
+            await gameClient.LeaveAsync();
+        }
+    }
+}
