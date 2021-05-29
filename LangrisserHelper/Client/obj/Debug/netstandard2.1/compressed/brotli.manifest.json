@@ -1,7 +1,7 @@
 {
   "FilesToCompress": [
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\bHuXxBZBl7D2Ll5dCOLxHAsGsxAy9kkeRJ6pB3IJlQU=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\fGhUFAU9VT2Dy2KPpNyMthhT3uaCbN2Dnd4n6PDvjj4=.hash",
       "Source": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\LangrisserHelper.Client.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/LangrisserHelper.Client.dll.br"
     },
@@ -381,7 +381,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.Authorization.dll.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\DsoQ-Ls5IGgWs6ssIeaimHGpLWEFQ7ENTnzuuiFJJKc=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\lB9j8qUBHSynQAppWvCMlAlNfape9y6Lb2msQxF2714=.hash",
       "Source": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\LangrisserHelper.Client.pdb",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/LangrisserHelper.Client.pdb.br"
     },
@@ -411,7 +411,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.webassembly.js.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\b46YY45mBD2Ynp3331GX5IOabqkvY0M6e4GrslSsXw4=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\ptfDVpHSJochiVgNWWarHO6Ghpeeo_nIIrRjMNsuZvE=.hash",
       "Source": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Client\\obj\\Debug\\netstandard2.1\\blazor\\blazor.boot.json",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.boot.json.br"
     }

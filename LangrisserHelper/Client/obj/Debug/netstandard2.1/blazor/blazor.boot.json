@@ -6,7 +6,7 @@
   "linkerEnabled": false,
   "resources": {
     "assembly": {
-      "LangrisserHelper.Client.dll": "sha256-bHuXxBZBl7D2Ll5dCOLxHAsGsxAy9kkeRJ6pB3IJlQU=",
+      "LangrisserHelper.Client.dll": "sha256-fGhUFAU9VT2Dy2KPpNyMthhT3uaCbN2Dnd4n6PDvjj4=",
       "System.Net.Http.Json.dll": "sha256-99dseBOagY3mzu5Y8Eqm8gRI+o8QbbCp7R2Ew9bQ+5E=",
       "System.Buffers.dll": "sha256-ZxXy75PYbzJxNfAc\/SAP1nUYm4gt1jSaOpFnBb9m85M=",
       "mscorlib.dll": "sha256-BaZPMj95+YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=",
@@ -84,7 +84,7 @@
       "Microsoft.AspNetCore.Components.Authorization.dll": "sha256-1MpK+R+B22ze2\/fn7l7hfyjClvOQ8bD7zIqXJYJtnXY="
     },
     "pdb": {
-      "LangrisserHelper.Client.pdb": "sha256-DsoQ\/Ls5IGgWs6ssIeaimHGpLWEFQ7ENTnzuuiFJJKc=",
+      "LangrisserHelper.Client.pdb": "sha256-lB9j8qUBHSynQAppWvCMlAlNfape9y6Lb2msQxF2714=",
       "LangrisserHelper.Shared.pdb": "sha256-XWjkVCOuMyCA8ZVBuwwdOKmzsHueCmiZWBSNn3wWzP4="
     },
     "runtime": {

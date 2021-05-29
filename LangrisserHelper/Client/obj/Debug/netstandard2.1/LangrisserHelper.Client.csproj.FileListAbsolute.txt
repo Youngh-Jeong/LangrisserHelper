@@ -2230,7 +2230,6 @@ D:\Langrisser\LangrisserHelper\LangrisserHelper\Client\obj\Debug\netstandard2.1\
 D:\Langrisser\LangrisserHelper\LangrisserHelper\Client\obj\Debug\netstandard2.1\Razor\Shared\TopMenu.razor.g.cs
 D:\Langrisser\LangrisserHelper\LangrisserHelper\Client\obj\Debug\netstandard2.1\Razor\_Imports.razor.g.cs
 D:\Langrisser\LangrisserHelper\LangrisserHelper\Client\obj\Debug\netstandard2.1\blazor\unlinked.output
-D:\Langrisser\LangrisserHelper\LangrisserHelper\Client\obj\Debug\netstandard2.1\integrity\bHuXxBZBl7D2Ll5dCOLxHAsGsxAy9kkeRJ6pB3IJlQU=.hash
 D:\Langrisser\LangrisserHelper\LangrisserHelper\Client\obj\Debug\netstandard2.1\integrity\99dseBOagY3mzu5Y8Eqm8gRI_o8QbbCp7R2Ew9bQ_5E=.hash
 D:\Langrisser\LangrisserHelper\LangrisserHelper\Client\obj\Debug\netstandard2.1\integrity\ZxXy75PYbzJxNfAc-SAP1nUYm4gt1jSaOpFnBb9m85M=.hash
 D:\Langrisser\LangrisserHelper\LangrisserHelper\Client\obj\Debug\netstandard2.1\integrity\BaZPMj95_YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=.hash
@@ -2306,14 +2305,12 @@ D:\Langrisser\LangrisserHelper\LangrisserHelper\Client\obj\Debug\netstandard2.1\
 D:\Langrisser\LangrisserHelper\LangrisserHelper\Client\obj\Debug\netstandard2.1\integrity\k1Q-Nn0vmFLW-uIspSLjQIwcdxtESVHtbVSho45eVD0=.hash
 D:\Langrisser\LangrisserHelper\LangrisserHelper\Client\obj\Debug\netstandard2.1\integrity\Fo_5LQIGo3WjnGH1gMI_G2oM9JnXGXomJM-IloE-Ayc=.hash
 D:\Langrisser\LangrisserHelper\LangrisserHelper\Client\obj\Debug\netstandard2.1\integrity\1MpK_R_B22ze2-fn7l7hfyjClvOQ8bD7zIqXJYJtnXY=.hash
-D:\Langrisser\LangrisserHelper\LangrisserHelper\Client\obj\Debug\netstandard2.1\integrity\DsoQ-Ls5IGgWs6ssIeaimHGpLWEFQ7ENTnzuuiFJJKc=.hash
 D:\Langrisser\LangrisserHelper\LangrisserHelper\Client\obj\Debug\netstandard2.1\integrity\XWjkVCOuMyCA8ZVBuwwdOKmzsHueCmiZWBSNn3wWzP4=.hash
 D:\Langrisser\LangrisserHelper\LangrisserHelper\Client\obj\Debug\netstandard2.1\integrity\mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash
 D:\Langrisser\LangrisserHelper\LangrisserHelper\Client\obj\Debug\netstandard2.1\integrity\3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash
 D:\Langrisser\LangrisserHelper\LangrisserHelper\Client\obj\Debug\netstandard2.1\integrity\UC-3Rm1NkdNdlIrzYARo_dO-HDlS5mhPxo0IQv7kma8=.hash
 D:\Langrisser\LangrisserHelper\LangrisserHelper\Client\obj\Debug\netstandard2.1\integrity\SPHS1EAPAcMFN4TEIUYl3FWtoCQTsNJch0XVGgok1eE=.hash
 D:\Langrisser\LangrisserHelper\LangrisserHelper\Client\obj\Debug\netstandard2.1\blazor\blazor.boot.json
-D:\Langrisser\LangrisserHelper\LangrisserHelper\Client\obj\Debug\netstandard2.1\integrity\b46YY45mBD2Ynp3331GX5IOabqkvY0M6e4GrslSsXw4=.hash
 D:\Langrisser\LangrisserHelper\LangrisserHelper\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\LangrisserHelper.Client.dll.gz
 D:\Langrisser\LangrisserHelper\LangrisserHelper\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.Json.dll.gz
 D:\Langrisser\LangrisserHelper\LangrisserHelper\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Buffers.dll.gz
@@ -2487,3 +2484,6 @@ D:\Langrisser\LangrisserHelper\LangrisserHelper\Client\obj\Debug\netstandard2.1\
 D:\Langrisser\LangrisserHelper\LangrisserHelper\Client\obj\Debug\netstandard2.1\LangrisserHelper.Client.csproj.CopyComplete
 D:\Langrisser\LangrisserHelper\LangrisserHelper\Client\obj\Debug\netstandard2.1\LangrisserHelper.Client.dll
 D:\Langrisser\LangrisserHelper\LangrisserHelper\Client\obj\Debug\netstandard2.1\LangrisserHelper.Client.pdb
+D:\Langrisser\LangrisserHelper\LangrisserHelper\Client\obj\Debug\netstandard2.1\integrity\fGhUFAU9VT2Dy2KPpNyMthhT3uaCbN2Dnd4n6PDvjj4=.hash
+D:\Langrisser\LangrisserHelper\LangrisserHelper\Client\obj\Debug\netstandard2.1\integrity\lB9j8qUBHSynQAppWvCMlAlNfape9y6Lb2msQxF2714=.hash
+D:\Langrisser\LangrisserHelper\LangrisserHelper\Client\obj\Debug\netstandard2.1\integrity\ptfDVpHSJochiVgNWWarHO6Ghpeeo_nIIrRjMNsuZvE=.hash
