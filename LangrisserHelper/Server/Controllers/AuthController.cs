@@ -45,7 +45,7 @@ namespace LangrisserHelper.Server.Controllers
         [Consumes("application/json")]
         public async Task<IActionResult> Login(UserLogin request)
         {
-            Console.WriteLine((request??new UserLogin).UserName);
+            Console.WriteLine((request??new UserLogin()).UserName);
             var response = await _authRepo.Login(request.UserName, request.Password);
 
             if (!response.Success)
