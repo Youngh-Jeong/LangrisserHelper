@@ -2,6 +2,7 @@
 using LangrisserHelper.Shared;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -21,6 +22,7 @@ namespace LangrisserHelper.Server.Controllers
         }
 
         [HttpPost("register")]
+        [Consumes("application/json")]
         public async Task<IActionResult> Register(UserRegister request) 
         {
             var response = await _authRepo.Register(
@@ -40,8 +42,10 @@ namespace LangrisserHelper.Server.Controllers
         }
 
         [HttpPost("login")]
+        [Consumes("application/json")]
         public async Task<IActionResult> Login(UserLogin request)
         {
+            Console.WriteLine((request??new UserLogin).UserName);
             var response = await _authRepo.Login(request.UserName, request.Password);
 
             if (!response.Success)

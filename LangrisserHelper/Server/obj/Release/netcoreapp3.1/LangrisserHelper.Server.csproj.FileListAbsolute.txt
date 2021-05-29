@@ -266,3 +266,6 @@ D:\Langrisser\LangrisserHelper\LangrisserHelper\Server\obj\Release\netcoreapp3.1
 D:\Langrisser\LangrisserHelper\LangrisserHelper\Server\obj\Release\netcoreapp3.1\LangrisserHelper.Server.dll
 D:\Langrisser\LangrisserHelper\LangrisserHelper\Server\obj\Release\netcoreapp3.1\LangrisserHelper.Server.pdb
 D:\Langrisser\LangrisserHelper\LangrisserHelper\Server\obj\Release\netcoreapp3.1\LangrisserHelper.Server.genruntimeconfig.cache
+D:\Langrisser\LangrisserHelper\LangrisserHelper\Server\bin\Release\netcoreapp3.1\Microsoft.Azure.SignalR.Common.dll
+D:\Langrisser\LangrisserHelper\LangrisserHelper\Server\bin\Release\netcoreapp3.1\Microsoft.Azure.SignalR.dll
+D:\Langrisser\LangrisserHelper\LangrisserHelper\Server\bin\Release\netcoreapp3.1\Microsoft.Azure.SignalR.Protocols.dll

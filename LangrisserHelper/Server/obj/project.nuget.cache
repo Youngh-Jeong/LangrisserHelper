@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "biiDUY2ieMCjr+LNeWCRU2FBxW6n9MzUF+tY/+R0ebH1R+qemIIWMfr3fkxNAu+nxiJPtNJiHaRd7UFKf2LdDQ==",
+  "dgSpecHash": "BXoSq+rNOx20E+6VQwWu21Mdg/2Eni3MJvBp0+306CHZynHDITNFcB1FH2rKiVAA7h9qJskco/57Js0lQtOOwA==",
   "success": true,
   "projectFilePath": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Server\\LangrisserHelper.Server.csproj",
   "expectedPackageFiles": [
@@ -27,6 +27,8 @@
     "C:\\Users\\jyh9805\\.nuget\\packages\\microsoft.aspnetcore.signalr.common\\3.1.15\\microsoft.aspnetcore.signalr.common.3.1.15.nupkg.sha512",
     "C:\\Users\\jyh9805\\.nuget\\packages\\microsoft.aspnetcore.signalr.protocols.json\\3.1.15\\microsoft.aspnetcore.signalr.protocols.json.3.1.15.nupkg.sha512",
     "C:\\Users\\jyh9805\\.nuget\\packages\\microsoft.aspnetcore.webutilities\\2.2.0\\microsoft.aspnetcore.webutilities.2.2.0.nupkg.sha512",
+    "C:\\Users\\jyh9805\\.nuget\\packages\\microsoft.azure.signalr\\1.4.0\\microsoft.azure.signalr.1.4.0.nupkg.sha512",
+    "C:\\Users\\jyh9805\\.nuget\\packages\\microsoft.azure.signalr.protocols\\1.4.0\\microsoft.azure.signalr.protocols.1.4.0.nupkg.sha512",
     "C:\\Users\\jyh9805\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\jyh9805\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
     "C:\\Users\\jyh9805\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

@@ -19,7 +19,9 @@ namespace LangrisserHelper.Client.Services
 
         public async Task<ServiceResponse<string>> Login(UserLogin request)
         {
+            Console.WriteLine(_http.BaseAddress);
             var result = await _http.PostAsJsonAsync("api/Auth/login", request);
+            Console.WriteLine(await result.Content.ReadAsStringAsync());
             return await result.Content.ReadFromJsonAsync<ServiceResponse<string>>();
         }
 

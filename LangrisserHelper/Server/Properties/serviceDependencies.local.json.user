@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "signalr1": {
+      "restored": true,
+      "restoreTime": "2021-05-29T06:15:54.1164323Z"
+    },
+    "secrets1": {
+      "restored": true,
+      "restoreTime": "2021-05-29T06:15:39.1853791Z"
+    }
+  },
+  "parameters": {
+    "signalr1.resourceGroupName": {
+      "Name": "signalr1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "DefaultResourceGroup-EA"
+    },
+    "signalr1.subscriptionId": {
+      "Name": "signalr1.subscriptionId",
+      "Type": "subscription",
+      "Value": "14cb5a35-ba95-4563-8d68-64a6e3c48050"
+    }
+  }
+}
