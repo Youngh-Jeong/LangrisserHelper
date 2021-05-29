@@ -1,0 +1,4 @@
+D:\Langrisser\LangrisserHelper\release\LangrisserHelper.Shared.dll
+D:\Langrisser\LangrisserHelper\release\LangrisserHelper.Shared.deps.json
+D:\Langrisser\LangrisserHelper\release\LangrisserHelper.Shared.pdb
+D:\Langrisser\LangrisserHelper\release\System.ComponentModel.Annotations.dll

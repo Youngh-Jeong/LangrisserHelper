@@ -1,0 +1,324 @@
+{
+  "FilesToCompress": [
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\crjrgYNvWnuCqAVTsW9l3eZ4mYMae148nfT1SSE7Qao=.hash",
+      "Source": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Blazored.LocalStorage.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Blazored.LocalStorage.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\qcBPzuUIrUFRkdelqgxEgNpLDHZhQ32PHRknhiFaUgI=.hash",
+      "Source": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Blazored.Toast.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Blazored.Toast.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\y5Xp4lB3lA7K2_Uf9DeCs15vhj6aZq2uaSLhWYVEz_o=.hash",
+      "Source": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Bunit.Core.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Bunit.Core.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\EmB3mK7vMPWC52YmnhRyzaTZpP06nmP-e-8RtjgrAww=.hash",
+      "Source": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\LangrisserHelper.Client.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/LangrisserHelper.Client.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\6YeN_aSXO7D3veY6BpWIyrOtB_9q9lZrAnYT960-u3w=.hash",
+      "Source": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\LangrisserHelper.Shared.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/LangrisserHelper.Shared.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\LT0g2C9RZa9AYy81yu2Ruv5qfCdyoY9ARaENbtnE1wk=.hash",
+      "Source": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.Authorization.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Authorization.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\dmYJ_vpFiQeItD3ZcpkFIw3IBHr_8FLqBFBxl4ik0p0=.hash",
+      "Source": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.Components.Authorization.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.Authorization.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\aKaL39ATvQ9QLMECxRF80n2ZI-8pUJdhWuVgxq5NhFY=.hash",
+      "Source": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.Components.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\JdsQDUjIe6dOd3fETQh63YjOpfKOHFhNmZsYaUPQl2I=.hash",
+      "Source": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.Components.Forms.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.Forms.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\s3-zOyyDbPrbHtU1Eort-HyziJOPe6C07O07-OTz_7w=.hash",
+      "Source": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.Components.Web.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.Web.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\5QhdX8hMToeBEU_M8v6rvkj8gbQLLX4HX3Y5FyP1FlA=.hash",
+      "Source": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.Components.WebAssembly.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.WebAssembly.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\5E7i5O49S2vyTfxy6BgCFJ2PCa0w0Jjp7tZsXSxsWio=.hash",
+      "Source": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.Connections.Abstractions.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Connections.Abstractions.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\b7pYasQfdckuyeOEvyjzUZcgizJa-8GFmH9uNwIHOQU=.hash",
+      "Source": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.Http.Connections.Client.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Http.Connections.Client.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\ni9XYkdI50Lhnp_9k2xZbvaUPXSTVvcun7T-hVS8jbM=.hash",
+      "Source": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.Http.Connections.Common.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Http.Connections.Common.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\e8DEe_R0Q6ix-g2dmihu5g6MLIfMh2dD0CUnk24n5tA=.hash",
+      "Source": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.Http.Features.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Http.Features.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\IzirAWvJ6IikXJsGMC0SZ3O7rNF1nWtytSWj8nwEHlA=.hash",
+      "Source": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.Metadata.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Metadata.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\DvgtU6_frKg3cLAitNKTcZqUfkK7rIh1l5Ubefna9HA=.hash",
+      "Source": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.SignalR.Client.Core.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.SignalR.Client.Core.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\xTKNv6PlbV-3sn6WTh1RwfdAexZvPDeLx2GS5tQbH58=.hash",
+      "Source": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.SignalR.Client.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.SignalR.Client.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\tcvH5WmE4YvFRBmGyVmUUPjbPZyrnOzs5hRtEV2g8YU=.hash",
+      "Source": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.SignalR.Common.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.SignalR.Common.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\KxPlUM7ogns7ScJYpydu_MmkEOrDjzprf5s41zPkxvI=.hash",
+      "Source": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.SignalR.Protocols.Json.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.SignalR.Protocols.Json.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\_rbjL6QzBO7n4EOrINlwcov9Kj6dNI99WvdGqjaKBTY=.hash",
+      "Source": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.WebUtilities.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.WebUtilities.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\jzHgXWAvWMkKIGFjZoT84tbe72E_H7CvTr-Dryh4QPs=.hash",
+      "Source": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Bcl.AsyncInterfaces.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Bcl.AsyncInterfaces.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\C7Fh_qdL3q7JOY8QD9cGWx5I2N7wXF72r6TmzKgCJgk=.hash",
+      "Source": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.CSharp.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.CSharp.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\Qx9fzsjypjujnMewu3GQ5gZba1m5b3z8QWrXmiphZD4=.hash",
+      "Source": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Configuration.Abstractions.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Configuration.Abstractions.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\cpHQQGKHJh5kHQwaKoTo1EmvARkUSONux9yZ3aR9JB8=.hash",
+      "Source": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Configuration.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Configuration.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\o0OyEy5ME5liFXxVB0g_t9gZ1G5f-3FyVh4376RVVCM=.hash",
+      "Source": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Configuration.Json.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Configuration.Json.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\RnblgSsweF2uu3FmfBtxnRZ6fWAziiSoPWvZdYsnZ1I=.hash",
+      "Source": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.DependencyInjection.Abstractions.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\A0XAkoQLZXyJSBdxbpShAbfkWz1YvxhYFVMdfXVDgpI=.hash",
+      "Source": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.DependencyInjection.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.DependencyInjection.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\ynhhOvyp1Z0OByrgaORFSnMorqkHfSRmLaj2-jCNF-k=.hash",
+      "Source": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Logging.Abstractions.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Logging.Abstractions.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\HTUZZj0deW8ivCJQzSddnA3AvuOrddiz73JfUD1_sL4=.hash",
+      "Source": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Logging.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Logging.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\LDXN1Js5migFOPKqrIDjvpT4Sey6G1e6N1NAnMjDSBM=.hash",
+      "Source": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Options.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Options.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\5Hn2BXFUWWGk2czoNsKoLmIloF7vb8VNQslFgXdEfUA=.hash",
+      "Source": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Primitives.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Primitives.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\Tln5EgS_XREM8uS9Uf8v-T8ZJ5B1YmmNWoWKLaKWMuU=.hash",
+      "Source": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.IdentityModel.JsonWebTokens.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.IdentityModel.JsonWebTokens.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\DRoot1ceczjaW9apIC7dkOPANsw2BHuIgIvSYzj-gmc=.hash",
+      "Source": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.IdentityModel.Logging.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.IdentityModel.Logging.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\LGSIwNuojwww-PYoHuQO41oiFaGp2R2Rz-X0CFTi8ko=.hash",
+      "Source": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.IdentityModel.Tokens.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.IdentityModel.Tokens.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\D_rlueZqIDhb8Wib1pB5_s2dvVzKL8nHqtHcFn8OCtQ=.hash",
+      "Source": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.JSInterop.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\ZbHJnGlZpZTwXxZCiNCmdgy9w2i-ngx3ho9V4wzNPtg=.hash",
+      "Source": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.JSInterop.WebAssembly.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\CIc_f2b5lG-wKPMAzvDLC4L9H7ZQtAb3S-wA_eJvlM8=.hash",
+      "Source": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Net.Http.Headers.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Net.Http.Headers.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\CyGxFV64Z8uxcr5Al6SyHmFrjVX1NN-cFuAoFxpNlNg=.hash",
+      "Source": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Mono.Security.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Mono.Security.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\QgDkTaE15bHFzAU3zkveROUzHdnM4In3OqHJv3YLxf0=.hash",
+      "Source": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\mscorlib.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/mscorlib.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\YN2kFOAMRp97oFW3RK10bxWElbUUayRpz7Dgkn1hM0o=.hash",
+      "Source": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.ComponentModel.DataAnnotations.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.ComponentModel.DataAnnotations.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\ZELwWw2Kmdo3AhrgWkKi6N-xjPdFbhpDEDEvHWl8xNI=.hash",
+      "Source": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Core.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Core.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\A58wnvwGKdv-Dk_NHJuNfxYOoGuZSB7UjQkDpDZaHNw=.hash",
+      "Source": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Data.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Data.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\tO8O92wNO2tr1pSD12Bv6MJNSGzTQOHdJNDMQG0gBJw=.hash",
+      "Source": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\LbcGjLPqGsDivrolZFigcM-_EURY3Ha7vdPZy86hFh0=.hash",
+      "Source": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.IdentityModel.Tokens.Jwt.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.IdentityModel.Tokens.Jwt.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\h3EgA7FywoMhc2KJPgt70L_AzZ0s7B6yQjW8eVCGxWI=.hash",
+      "Source": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.IO.Pipelines.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.IO.Pipelines.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\lBNiOJvxTNiHmdHnTmvUj2nxhiG_gBxEqRP8K6yXWjc=.hash",
+      "Source": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Net.Http.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Net.Http.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\w8_g5qDxkfM1QaNvAMN_o5pde23ifFlKXTuG67WQtQ4=.hash",
+      "Source": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Net.Http.Json.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Net.Http.Json.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\eW5hyzvQLvqdXUEsDbfpLS6kzP1zAbiF2yE1OjRxgpA=.hash",
+      "Source": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Net.Http.WebAssemblyHttpHandler.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Net.Http.WebAssemblyHttpHandler.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\YsvmdnyJgIHOWPPH_P0nkr7lszgCyw6-9rgVWDNb04k=.hash",
+      "Source": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Numerics.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Numerics.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\poxgl80Yy6jhd2eauImr8QS9W0jNE-NGUTcyYpg9_MQ=.hash",
+      "Source": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Runtime.CompilerServices.Unsafe.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Runtime.CompilerServices.Unsafe.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\xYfDAg-X7qZliGWQm5U7QsJnp0UBb9dyVlXyC1Yhdds=.hash",
+      "Source": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Runtime.Serialization.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Runtime.Serialization.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\Qyb9eITaD3MwGcvOPXBNbx5BNOQfxgllB473BfDP6zg=.hash",
+      "Source": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Text.Encodings.Web.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Text.Encodings.Web.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\ke-_YmXb5I9M_Iej-8ck_SantLiYSbYTBGNKhGAaQIo=.hash",
+      "Source": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Text.Json.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Text.Json.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\nG5Icj2Sitoujq6zdX_1wykCsWI-z2GW_C49B7BeRKI=.hash",
+      "Source": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Threading.Channels.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Threading.Channels.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\kxjYjVEwFiBiwqk9TqbFy0HSkMnW6y-7rVsyxNrShXs=.hash",
+      "Source": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Xml.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Xml.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\Jisb4YUP35uzf7TLrlXSYN8N_jDn6IUNRCBdKikrR5M=.hash",
+      "Source": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Xml.Linq.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Xml.Linq.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\2V14KASPW9ITFu1at1YY5Z6Ae0IKvgcne2RlE0ze-m8=.hash",
+      "Source": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\WebAssembly.Bindings.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/WebAssembly.Bindings.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\8BJaW7s4yA9-3FcxbqdEhTRsGr83tJaP2NkU6PZ0kDs=.hash",
+      "Source": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\WebAssembly.Net.WebSockets.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/WebAssembly.Net.WebSockets.dll.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash",
+      "Source": "C:\\Users\\jyh9805\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.runtime\\3.2.0\\tools\\dotnetwasm\\wasm\\dotnet.3.2.0.js",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/wasm\/dotnet.3.2.0.js.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash",
+      "Source": "C:\\Users\\jyh9805\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.runtime\\3.2.0\\tools\\dotnetwasm\\wasm\\dotnet.timezones.dat",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/wasm\/dotnet.timezones.dat.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\UC-3Rm1NkdNdlIrzYARo_dO-HDlS5mhPxo0IQv7kma8=.hash",
+      "Source": "C:\\Users\\jyh9805\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.runtime\\3.2.0\\tools\\dotnetwasm\\wasm\\dotnet.wasm",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/wasm\/dotnet.wasm.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\SPHS1EAPAcMFN4TEIUYl3FWtoCQTsNJch0XVGgok1eE=.hash",
+      "Source": "C:\\Users\\jyh9805\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.build\\3.2.1\\tools\\blazor\\blazor.webassembly.js",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/blazor.webassembly.js.br"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\f0LxygoW7EclZ9AgmFzEAb3RtyZfPPt4f3bsEUuGYOQ=.hash",
+      "Source": "D:\\Langrisser\\LangrisserHelper\\LangrisserHelper\\Client\\obj\\Release\\netstandard2.1\\blazor\\blazor.boot.json",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/blazor.boot.json.br"
+    }
+  ]
+}

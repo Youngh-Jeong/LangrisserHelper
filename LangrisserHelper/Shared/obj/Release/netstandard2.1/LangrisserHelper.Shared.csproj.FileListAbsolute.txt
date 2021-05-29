@@ -1,0 +1,9 @@
+D:\Langrisser\LangrisserHelper\LangrisserHelper\Shared\bin\Release\netstandard2.1\LangrisserHelper.Shared.deps.json
+D:\Langrisser\LangrisserHelper\LangrisserHelper\Shared\bin\Release\netstandard2.1\LangrisserHelper.Shared.dll
+D:\Langrisser\LangrisserHelper\LangrisserHelper\Shared\bin\Release\netstandard2.1\LangrisserHelper.Shared.pdb
+D:\Langrisser\LangrisserHelper\LangrisserHelper\Shared\obj\Release\netstandard2.1\LangrisserHelper.Shared.csprojAssemblyReference.cache
+D:\Langrisser\LangrisserHelper\LangrisserHelper\Shared\obj\Release\netstandard2.1\LangrisserHelper.Shared.AssemblyInfoInputs.cache
+D:\Langrisser\LangrisserHelper\LangrisserHelper\Shared\obj\Release\netstandard2.1\LangrisserHelper.Shared.AssemblyInfo.cs
+D:\Langrisser\LangrisserHelper\LangrisserHelper\Shared\obj\Release\netstandard2.1\LangrisserHelper.Shared.csproj.CoreCompileInputs.cache
+D:\Langrisser\LangrisserHelper\LangrisserHelper\Shared\obj\Release\netstandard2.1\LangrisserHelper.Shared.dll
+D:\Langrisser\LangrisserHelper\LangrisserHelper\Shared\obj\Release\netstandard2.1\LangrisserHelper.Shared.pdb
